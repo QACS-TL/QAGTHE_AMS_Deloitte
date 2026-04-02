@@ -1,0 +1,12 @@
+VIM
+Press i or a to get into insert mode, and type the message of choice
+
+Press ESC several times to get out of insert mode, or any other mode you might have run into by accident
+
+to save, :wq, :x or ZZ
+
+to exit without saving, :q! or ZQ
+
+To reload a file and undo all changes you have made...:
+
+Press several times ESC and then enter :e!.
