@@ -1,0 +1,1466 @@
+0:07 : Roy Wilson : There you go.
+0:11 : Roy Wilson : Can you see my screen?
+0:13 : QA Trainer : Yep.
+0:14 : Roy Wilson : So this this is roughly the process myself and Dammy follows, so we have a design request that will come in from the sales team. We review the information that comes in and then we'll assess if that information is adequate to us produce design if it's not, we request more information back to the sales team and it follows the process again.
+0:36 : Roy Wilson : We've got adequate information, we're then produce the design.
+0:39 : Roy Wilson : Depending upon the level that design gets checked, if it doesn't ask he goes, no, it goes back to redesign to to essentially start again and then if it's ok, we then issue the design straight quote I should change the symbol at the end really, but.
+0:56 : QA Trainer : Great yep thank you very much. Thank you. Yeah.
+1:02 : QA Trainer : I'm gonna remove your co host and who wants to go next?
+1:15 : Gary : Heard this year? Yeah.
+1:16 : Sarah Randall : Have a fun the screen to my mute myself.
+1:20 : Sarah Randall : Yeah.
+1:21 : QA Trainer : Right, so.
+1:23 : QA Trainer : Okay I made you co host and.
+1:27 : Roy Wilson : At the bottom of the, the black screen, you've got mute stop video, share, and Ano assistant. No.
+1:34 : Gary : Okay, that's here.
+1:35 : Roy Wilson : Yeah, they're quite tiny buttons on my screen, but.
+1:39 : Gary : So you can see that, that was my whole screen window is that.
+1:54 : Gary : Got it?
+1:54 : QA Trainer : Yep.
+1:55 : Roy Wilson : Yeah.
+1:57 : Gary : There's just start the process as it complete? No rebuild it. Then is it complete again? No, then continue that loop. If it's been complete, you'll assemble it, then you'll sign it off, then you'll send it.
+2:16 : QA Trainer : Wait. Okay, thank you very much. Thanks. Who wants to go next?
+2:26 : Danny King : Back up.
+2:28 : QA Trainer : Danny, I can.
+2:31 : QA Trainer : Yeah.
+2:33 : QA Trainer : You should be able to share your screen.
+2:55 : Danny King : Does this working? Can you see it?
+2:57 : QA Trainer : Yes yes. Yeah.
+3:01 : Danny King : So this is.
+3:03 : Danny King : Similar type process to Royce, but this is when we get turned a bit in. So we log the tender opportunity, view some documents.
+3:16 : Danny King : Make sure we got all documents and surveys received, then we can complete some pricing. If we don't have the documents, then we sort of trace them up. Then we review and get it approved by the sales team if they don't agree.
+3:34 : Danny King : Approve, we revise and finally we complete the pricing doc and submit our bid.
+3:42 : QA Trainer : Yep.
+3:44 : QA Trainer : Thank you very much. Thank you.
+3:47 : Sarah Randall : Like if I do mind now or.
+3:49 : QA Trainer : Yeah, so let me just.
+3:52 : QA Trainer : Just one second.
+3:57 : QA Trainer : I should be able to share your screen now. Yeah.
+4:07 : Sarah Randall : Mine is very basic.
+4:11 : Sarah Randall : Can you see it?
+4:15 : Sarah Randall : It's not the beginning part of our process cause it's so long winded.
+4:19 : Sarah Randall : The sale comes in sales handovers received if the information's not correct, it goes back to the salespeople, if it is correct, the job gets created on BC and then we send it over to the contracts manager.
+4:29 : QA Trainer : That's three fourth Cool.
+4:32 : QA Trainer : Perfect. No, it's it's ok. It's ok. It's ok.
+4:36 : QA Trainer : One second. Okay, right. So, do do you have any questions based on what we've seen so far?
+4:48 : Roy Wilson : My only question is that I'm assuming we want to change the arrow types, we just change the, the connector symbol, and this is simple as that.
+4:56 : QA Trainer : In some case, let me just go back on the, let me go back on the.
+5:01 : QA Trainer : Lab. Right. Oops. Reconnect, right. So, let me just open up again. Okay, say it again. If.
+5:11 : Roy Wilson : So.
+5:14 : Roy Wilson : In the arrows, the process arrows, if you want to change the shape or design of that arrow.
+5:20 : QA Trainer : Yeah.
+5:20 : Roy Wilson : And we just click on the connect on a different connector symbol in the connect.
+5:26 : QA Trainer : Yeah, it would, yeah.
+5:29 : Roy Wilson : Yeah. Yeah.
+5:30 : QA Trainer : Yeah, yeah. Okay, if that's all then you can go on your lunch break now and I will see you back at half past one.
+5:44 : QA Trainer : Make sure, make sure you don't close your your lab, ok? If you want to save anything, you need to, just send it from the virtual machine to your one drive or Google drive or or cloud because other you can't drag and drop being on a virtual machine, so if you want to save anything, you would have to send it via.
+6:05 : QA Trainer : Internet. Okay, so just make sure you don't close the, the lab window.
+6:13 : QA Trainer : Okay.
+6:15 : QA Trainer : Okay, I'll see you in forty five minutes.
+6:19 : QA Trainer : Okay. Bye.
+51:53 : QA Trainer : You're back.
+52:00 : Sarah Randall : If.
+52:02 : Sarah Randall : If.
+52:08 : QA Trainer : Right, so.
+52:13 : QA Trainer : Let me just check.
+52:16 : QA Trainer : Okay.
+52:21 : QA Trainer : I think, yeah, we still need to wait for Danny for a little bit.
+52:30 : QA Trainer : Jenny.
+52:32 : QA Trainer : Cool, so.
+52:35 : QA Trainer : We'll be.
+52:40 : QA Trainer : Starting with the.
+52:43 : QA Trainer : Bear with me, a module three, so I know we finished that. Okay, so module three and then I think, yeah, I was planning on doing three and potentially starting four, but I see we we are moving quite fast, so.
+53:02 : QA Trainer : Yeah, so we have.
+53:04 : QA Trainer : I'm thinking in terms of.
+53:07 : QA Trainer : Timings, so if God so half past.
+53:12 : QA Trainer : Okay we can see we'll we'll discuss and we'll see how we where when you want to take the break or we can finish earlier, we'll we'll see, we'll see how, how things go. So, module three is on building organization charts.
+53:28 : QA Trainer : Okay so I'm I'm assuming what you've seen so far was, was probably already, you already knew it. So I assuming it wasn't very exciting, but hopefully moving forward is gonna be it's gonna become more exciting for you.
+53:41 : QA Trainer : So in the building building in the new module, you by the end of the module, you are meant to know or be more comfortable to manually create an organization chart or, and create creating, a chart with the wizard or and also modifying the layout of.
+54:02 : QA Trainer : Organization chart. Also, what I want to do is I want to give you at the end of the of the session, five to ten minutes to dropdown to to write in the chat, what you'd like to.
+54:16 : QA Trainer : Address tomorrow. So I already have the modules but on top of that, what you told me at the very beginning, I would like to ask you to write them in the chat so I just, I can copy and paste and try to see what I can, if I, if the.
+54:30 : QA Trainer : Course doesn't cover, then I'll try to see what I can do by tomorrow. I can promise anything, but I'll try to do as much as I can. So I'll give you at the end ten minutes to, just write your, requests in the chat, ok?
+54:46 : Roy Wilson : One quick question on that, yeah, we were looking at ways of using tables of data in Excel to diagrams in visio. I know you can do all charts, but can you do anything else other than org charts.
+55:02 : QA Trainer : So we will be, we'll be talking about Excel, we'll be using Excel in different.
+55:09 : QA Trainer : Situations, so we'll be using the Excel now to show you how with video to create to show you how, yeah, how you can create a.
+55:18 : QA Trainer : A charts and then we'll talk more about Excel tomorrow to show how we can connect this year with, with Excel. So.
+55:28 : QA Trainer : I know I mean from what I've seen AutoCAD is not part of, of the module, so I'm saying that's why I was saying write down your request and I'll see what I can do by tomorrow.
+55:39 : Roy Wilson : Yeah perfect.
+55:40 : QA Trainer : Including the the excel B So anything that you'd like to cover, I will make I will check whether the the actual module cover if not I'll try to see what I can do.
+55:51 : QA Trainer : By tomorrow, ok? And if if if I can do too much by tomorrow, then I'll try to.
+56:00 : QA Trainer : Prepare something for you and send send some stuff for you after so during the upcoming days. Okay?
+56:09 : QA Trainer : Okay, right. So, right, let's open. Okay let me just refresh my.
+56:21 : QA Trainer : Let's just go into Visio and open a, a new file.
+56:28 : QA Trainer : And yeah, I can go and basic diagram. Oh, sorry, my mistake, not basic diagram, apologies. I I stuck I remained with the apologies. So Visio organization charts, sorry.
+56:41 : QA Trainer : Okay.
+56:45 : QA Trainer : So going to new, new.
+56:48 : Gary : I'm just can you share your screen again? Yeah.
+56:50 : QA Trainer : I'll share my screen Yes yes yes, one second.
+56:55 : QA Trainer : So I just want to check if they are, ok, yeah, ok. Let me just share my screen now.
+57:07 : QA Trainer : Okay, yep you should be able to see.
+57:13 : QA Trainer : Okay so you'd go on visio, new, and then.
+57:18 : QA Trainer : You can type, you can go in category, business.
+57:26 : QA Trainer : Will click.
+57:29 : QA Trainer : Sorry, not this one.
+57:31 : QA Trainer : Or you can business organization chart.
+57:38 : QA Trainer : Choose metric you need and then click on create.
+57:45 : QA Trainer : And this is what you should see when just let me know when you, when you get here.
+58:01 : Roy Wilson : Yeah.
+58:06 : QA Trainer : Okay, so.
+58:08 : Roy Wilson : Sorry I've lost the way you went to it now.
+58:11 : QA Trainer : So you, no, no problem, new.
+58:17 : QA Trainer : New and then.
+58:19 : QA Trainer : It's categories, business organization chart. So not the wizard one, just the normal one.
+58:26 : Roy Wilson : Yeah.
+58:31 : QA Trainer : So as the as the object just before, just confirm that you're all on, on the same where or you're on the same page.
+58:40 : Roy Wilson : Yes.
+58:41 : QA Trainer : Right, so as the name suggests, it allows you to create organization charts, ok? Especially, when you've got many employees becomes very it can become very messy. In terms of.
+58:56 : QA Trainer : In terms of, of, of tools, so what you see are the the layout, ok, under home, ok? You've got the, the layout and then a range shapes, pictures the similar issue to what you've seen before. Of course, it differs according to what type of.
+59:16 : QA Trainer : Diagram or you, you want to create. Then.
+59:22 : QA Trainer : So I I think it's it's ok if you don't go into what layout is because you already know, organization chart in terms of shapes, here you've got.
+59:33 : QA Trainer : The, I say the main shapes, but then of course on the left hand side, you've got.
+59:38 : QA Trainer : A lot more. Okay.
+59:44 : QA Trainer : Now let's go, let's get into the actual activity. So.
+59:49 : QA Trainer : If we've already we've already created, we've already opened a new file business categories and then organi organization charts, create, we've hosen the other metric unit. And now let's see. So, go into at the top, the ribbon, go on to view.
+1:00:08 : QA Trainer : And we want to make sure that the dynamic grid is enabled, so it should be here.
+1:00:18 : QA Trainer : Okay, now from the organization charts, shapes stencils on the left hand side drag executive belt. So executive belt should be the first one that you see and just place it in the middle. So the the grids, the dynamic grid I mentioned earlier, can you see if you see my screen, there are some.
+1:00:39 : QA Trainer : Showing up at the, at the top on the, on the, on the rule ruler and also So they are guiding lines, let's call iters.
+1:00:50 : QA Trainer : To the middle of of the drawing page, ok? And then over type the title placeholder with HI directors, so I need to increase, so instead of the title, right. HR director, there will there will be a little writing to do with the starting, starting now. So.
+1:01:11 : QA Trainer : For the further for the next sessions.
+1:01:13 : QA Trainer : And then instead of name, place Sarah Welllace. So.
+1:01:36 : QA Trainer : Okay, just let confirm when you're, when you're done.
+1:01:41 : QA Trainer : Now next one is drag the the manager's shape directly on top of the HR director. So manager Bellt, just drop it on top of it and we'll automatically create the connection.
+1:01:55 : QA Trainer : Now in the, in the new box in the or in the new shape, you'd wanna write.
+1:02:03 : QA Trainer : Now before that, let's do something else. So before that, before we write or we change the, the title and everything.
+1:02:11 : QA Trainer : I want you to drag multiple shape shapes onto the HR director. So get click on.
+1:02:19 : QA Trainer : On the left hand side multiple shapes and then drop it on top of HR director. Okay, and we are supposed to choose, four, so just increase it comes by default three, but choose four and then manager position and then ok?
+1:02:40 : QA Trainer : And you should see what I see on the screen.
+1:02:43 : Roy Wilson : So I missed that then to get the multiples.
+1:02:46 : QA Trainer : Okay, so on the left hand side, probably it should be the fifth row in for me, probably the, should be the same for.
+1:02:55 : QA Trainer : And you drop it on top of HR director. Yeah. And it's gonna add multiple.
+1:03:01 : QA Trainer : Employe.
+1:03:02 : Roy Wilson : I don't know. Yeah.
+1:03:04 : QA Trainer : Okay they all who all reports to the high chair high chair director. Now, we gonna, we need to change the names. So for.
+1:03:14 : QA Trainer : We can do them in this order. So first one payroll manager. So you go on the title and instead of title you say payroll manager.
+1:03:29 : QA Trainer : K and name is the name is James Wilson.
+1:03:47 : QA Trainer : Okay, next one is recruitment manager. Second one.
+1:04:05 : QA Trainer : The name is Daisy Collins.
+1:04:21 : QA Trainer : And one L and D manager.
+1:04:34 : QA Trainer : The name is, she'll she'll pass sin. I'll I'll spell it for you. So S H I L PA.
+1:04:43 : Danny King : Let's see.
+1:04:48 : QA Trainer : And then the, the surname is seen, S I N G H S.
+1:05:04 : QA Trainer : One H HMS manager.
+1:05:13 : QA Trainer : And the name is Groham Greenwood.
+1:05:28 : Roy Wilson : Let's.
+1:05:31 : QA Trainer : This one employee relations manager, so.
+1:05:48 : QA Trainer : And the name is Jane Har Hargreefs, so.
+1:05:54 : QA Trainer : So Jane and Jane, and then.
+1:06:00 : QA Trainer : A R G.
+1:06:03 : QA Trainer : R E A V ES.
+1:06:19 : QA Trainer : You know when, on you're done.
+1:06:33 : QA Trainer : All on the same page or.
+1:06:35 : QA Trainer : Are we all in the same time, ok, ok, now each of these people have various employees who report into them, ok? So this one we're gonna do next. So, what we'll do is we will drag the assistant shape on top of the HR director, and then, so let's do this, so assistant.
+1:06:56 : QA Trainer : Belts on top of the HR director.
+1:07:04 : QA Trainer : And add the title HR assistant.
+1:07:13 : QA Trainer : Time Rebecca James.
+1:07:29 : QA Trainer : Okay.
+1:07:33 : QA Trainer : We will apply again via the multiple shapes for the payroll manager. So we will drop multiple multiple shapes.
+1:07:44 : QA Trainer : Belt on top of the payroll manager and choose, oh, come on.
+1:07:52 : QA Trainer : Okay, Choose two.
+1:07:55 : QA Trainer : Employees to start and to staff members and then to staff. Okay.
+1:08:09 : QA Trainer : Right, and then we'll change the names into Gemma evans.
+1:08:21 : QA Trainer : Which she's a payroll assistant.
+1:08:30 : QA Trainer : And Tom Foster.
+1:08:39 : QA Trainer : Then he's an expense expensive clock clark, sorry.
+1:08:48 : Danny King : I'll.
+1:08:54 : Danny King : Yeah.
+1:08:56 : QA Trainer : Okay, let me know when your role.
+1:09:01 : QA Trainer : Okay, next one is.
+1:09:03 : QA Trainer : We'll add another three stuff, shapes to the recruitment manager. So again we go on multiple multiple shapes and drop it on top of recruitment manager choose three, it's already by default and then staff, ok?
+1:09:25 : QA Trainer : The names are Jason Hamilton.
+1:09:41 : QA Trainer : And he's a permanent staff.
+1:09:46 : QA Trainer : So underneath I'm gonna say permanent.
+1:09:52 : QA Trainer : Stuff.
+1:09:58 : QA Trainer : This one is.
+1:10:01 : QA Trainer : Habit Wahid, so.
+1:10:08 : QA Trainer : And then he's a temporary stuff.
+1:10:19 : QA Trainer : And then the last one she's called she's named Jennifer Grent.
+1:10:31 : QA Trainer : And she's a graduate recruiter.
+1:10:36 : Danny King : I'll.
+1:10:47 : QA Trainer : Okay, again, let me know when you're, when you finished.
+1:10:58 : QA Trainer : Okay, now the next one, again, choose the multiple ship spells and rock it on top of the LN LND manager.
+1:11:08 : QA Trainer : And choose two.
+1:11:15 : QA Trainer : Okay, first one is Sheila stub.
+1:11:24 : QA Trainer : Day training coordinator.
+1:11:35 : QA Trainer : Second one is Annah Marshall. Hannah.
+1:11:48 : QA Trainer : She's also a training coordinator.
+1:12:13 : QA Trainer : Okay.
+1:12:17 : QA Trainer : Again let let me know when, when you're done.
+1:12:22 : Roy Wilson : I'm.
+1:12:24 : QA Trainer : Hey, all of you? Yeah.
+1:12:27 : QA Trainer : Cool. Now, we're gonna save the file and name it HR team chart. So.
+1:12:40 : QA Trainer : And save it on the desktop, page.
+1:12:53 : QA Trainer : So before closing, yeah, so this is this is how you can create an organization chart manually, ok? You can play with, with the, for example, if you want to, I believe it's, it's gonna be covered in, in the next few minutes, but if you want to delete an employee, you just click right and then cut or.
+1:13:14 : QA Trainer : You can you can edit, you can change the position type, you can change the picture, so.
+1:13:20 : QA Trainer : Okay I'm gonna close it for now.
+1:13:25 : QA Trainer : And then we're gonna move to how to create an organization chart with the wizard. Now, I did try to create one yesterday, on the virtual machine and part of the reason.
+1:13:40 : QA Trainer : The, the virtual machine didn't recognize the office license, so hopefully it's not gonna there'll be no issues today, so, I did raise the ticket with IT in the meantime, so hopefully she should be fine. So, let's go into again Visio.
+1:14:01 : QA Trainer : Okay, new organization chart you can see you've but you no, you wanna go into business. So where you see categories, business and then choose.
+1:14:12 : QA Trainer : Organization charts, Wait the wizard should be somewhere, yeah. It's the chose the choice the end.
+1:14:22 : QA Trainer : Organization chart wizard.
+1:14:26 : QA Trainer : Click on create, make sure you have you've chosen metric units and create.
+1:14:34 : QA Trainer : As we do not have a data source, we will select information that I enter using the wizard. So we'll click the second one. The second option.
+1:14:46 : QA Trainer : And then you click on next.
+1:14:50 : QA Trainer : Then we're gonna pick Excel.
+1:14:53 : QA Trainer : As preferred application.
+1:14:58 : QA Trainer : Then we will select browse.
+1:15:03 : QA Trainer : And within the activities folder, we're gonna save a file called My org data. So, my.
+1:15:14 : QA Trainer : Data.
+1:15:17 : QA Trainer : Just to save it on on desktop it's a Save.
+1:15:22 : QA Trainer : And you should, you should see it should take you back to the.
+1:15:26 : QA Trainer : Organization chart wizard and you should see the other pa.
+1:15:30 : QA Trainer : So.
+1:15:31 : Roy Wilson : Should just go back a couple of steps, my machine was playing out for a second.
+1:15:35 : QA Trainer : So it's alright. So you'd, where are you at now?
+1:15:38 : Roy Wilson : But the, looking for the Excel file.
+1:15:43 : QA Trainer : You're not looking for an excel file. You choose Excel like you see on the on my screen, you choose Excel and then this should open up a new window where you would you will create a file, so just follow at the just follow just follow the steps so you'd click on browse, and you should see what I see now here. You want to click you want to choose desktop, so you would save the file on.
+1:16:03 : QA Trainer : Desktop and then where it says file name, you'd write what I wrote here, my org data, my organization data.
+1:16:10 : Roy Wilson : Oh, sorry, yeah, yeah. Okay.
+1:16:13 : QA Trainer : Then click on save.
+1:16:22 : QA Trainer : The next.
+1:16:28 : QA Trainer : Okay, it says type over the sample text to create your data file then save the file and choose file and then exit to continue with the wizard. So click OK.
+1:16:39 : QA Trainer : Now we're gonna see if.
+1:16:42 : QA Trainer : They manage. Okay, yeah. Cause yesterday everything was was was frozen, everything was grey, so I wasn't able to do anything. Now, I'm gonna, again, I'll I'll, change the names that you see here to some other ones. So, first one is actually the names, the names we've written, so you can either copy.
+1:17:02 : QA Trainer : Paste them or you can write them again. So first one is.
+1:17:08 : QA Trainer : Sarah Wallace.
+1:17:16 : QA Trainer : And you you'll, instead of CEO, you write HR director.
+1:17:25 : QA Trainer : Then there will be no phone column. I'm just gonna.
+1:17:31 : QA Trainer : And instead of executive I'm gonna say HR.
+1:17:37 : Danny King : Mine's not opened Excel, for some reason it's come up with another window that starts with you can import pictures from your computer or network location.
+1:17:47 : QA Trainer : Okay, let me.
+1:17:50 : QA Trainer : Let me try to see what you see. So.
+1:17:55 : QA Trainer : Okay I need to.
+1:17:59 : QA Trainer : What I will do is I'll stop sharing and I'll ask you to share your screen, ok?
+1:18:04 : QA Trainer : Okay, so, what, who, who's I, I wasn't able to see who raised the issue.
+1:18:10 : QA Trainer : Twenty, ok, so Danny I'm gonna give you.
+1:18:16 : QA Trainer : I'm just gonna, I don't know how to not to miss with the.
+1:18:21 : QA Trainer : So I'm gonna make you co host and then you can share your screen.
+1:18:42 : Danny King : Ones come up with this.
+1:18:47 : QA Trainer : It looked like.
+1:18:48 : Danny King : In Excel and then it opened this.
+1:18:51 : QA Trainer : Can you, can you cancel and start from the beginning, please?
+1:18:58 : QA Trainer : So you go, yeah, you have to come out completely. Don't save.
+1:19:10 : QA Trainer : Go on the wizard, yeah. Yeah.
+1:19:12 : Danny King : Yeah.
+1:19:14 : QA Trainer : Okay, now choose the second one.
+1:19:18 : QA Trainer : Okay Excel choose Excel. Yeah browse.
+1:19:23 : QA Trainer : Chrome browse.
+1:19:26 : QA Trainer : Put is two choose desktop and name your file.
+1:19:33 : QA Trainer : My org data.
+1:19:37 : QA Trainer : Save.
+1:19:42 : QA Trainer : Next next.
+1:19:46 : QA Trainer : Okay ok.
+1:19:49 : Danny King : I'm correct I didn't do this last time.
+1:19:53 : Danny King : Cool, ok.
+1:19:56 : QA Trainer : Okay, you know that you can stop sharing so I can.
+1:20:00 : Danny King : Yeah.
+1:20:12 : QA Trainer : Okay.
+1:20:17 : QA Trainer : Yeah, so, so Sarah well as Wallace HR director HR, you would want to delete so I deleted the the last column with the telephone number or something.
+1:20:30 : QA Trainer : Next one is James Wilson.
+1:20:41 : QA Trainer : Okay, I reports to They all report to not all of them but last except the last two Sara wallace. So.
+1:20:56 : QA Trainer : Payroll manager instead of the developmental manager, so payroll.
+1:21:04 : QA Trainer : Manager and then.
+1:21:06 : QA Trainer : Hey, they're all HR, ok, so.
+1:21:15 : QA Trainer : One daisy Collins.
+1:21:22 : QA Trainer : Again, she reports to Sarah Wallace.
+1:21:28 : QA Trainer : She's a recruitment manager.
+1:21:37 : QA Trainer : They are all HR, so you can choosing control of them.
+1:21:43 : QA Trainer : In case fourth one, she'll pass in.
+1:21:48 : QA Trainer : S H.
+1:22:03 : QA Trainer : She's on L and D manager.
+1:22:12 : QA Trainer : Grow home greenwoods. Next one.
+1:22:29 : QA Trainer : Okay he reports to Sarah Wallace and then he's an HLS manager.
+1:22:41 : QA Trainer : Jane Harve Hargriefs, so.
+1:22:46 : QA Trainer : Jane.
+1:23:03 : QA Trainer : She's a, a employee relations manager.
+1:23:15 : Danny King : Let's.
+1:23:20 : QA Trainer : Okay, the next one comes Gemma Evans.
+1:23:30 : QA Trainer : She reports to James Wilson.
+1:23:42 : QA Trainer : The payroll assistant.
+1:23:57 : QA Trainer : From Foster.
+1:24:04 : QA Trainer : James Wilson, he's an expensive clerk Clerk.
+1:24:12 : QA Trainer : CHR.
+1:24:17 : QA Trainer : So your file should contain what you see on the screen.
+1:24:22 : QA Trainer : And let's just let me know when.
+1:24:26 : QA Trainer : When you're done.
+1:24:36 : QA Trainer : All of you?
+1:24:38 : Roy Wilson : Okay.
+1:24:39 : QA Trainer : Now save and close the Excel file to update the wizard. So we're gonna save it.
+1:24:45 : QA Trainer : Okay, and close it.
+1:24:53 : QA Trainer : Okay.
+1:24:55 : QA Trainer : We're gonna leave, you can see don't include pictures and charts so it's already selected so we're gonna keep that and then choose next.
+1:25:08 : QA Trainer : Right.
+1:25:13 : QA Trainer : Oh one second.
+1:25:17 : QA Trainer : Okay so it's yeah, we have, if you normally you should already have selected I want the wizard to automatically break my organization chart chart across pages. So you should already see that. And then select finish.
+1:25:40 : QA Trainer : And this is what you should see.
+1:25:45 : QA Trainer : Okay. Do you all see the same thing? Sure.
+1:25:52 : Danny King : We're organizated, data contains five entries that are not in the organization. Do you want to include them?
+1:26:00 : QA Trainer : Say that again.
+1:26:02 : Danny King : I've had another pop up and it says your organization data contains five entries that are not in the organization. Do you want some include them?
+1:26:12 : QA Trainer : I haven't had Had any of you had the same, the same.
+1:26:18 : QA Trainer : No.
+1:26:21 : QA Trainer : I'm.
+1:26:24 : QA Trainer : Do you want to include them? So I, I don't know what options have you got?
+1:26:29 : Danny King : As Yes now clicks on yes, but it's just got L and D managers silpasing on it, it's not got anybody else.
+1:26:35 : QA Trainer : Right, ok, see, ok. So.
+1:26:38 : Danny King : Yeah, so it was exactly as it was on the screen just then.
+1:26:41 : QA Trainer : Okay, have you saved it?
+1:26:45 : QA Trainer : Okay.
+1:26:47 : QA Trainer : No, no problem. Let's, let's do let's do it again. So.
+1:26:52 : QA Trainer : Do you want to share your screen? I can stop sharing mine and can share yours. So we can do this together if you want to.
+1:27:01 : QA Trainer : One two.
+1:27:03 : Danny King : And.
+1:27:03 : QA Trainer : So, again, I need to ask cause like I couldn't see who who spoke.
+1:27:10 : Danny King : It's Tanny. Yeah.
+1:27:11 : QA Trainer : Okay, so, because I need to, oh, you're already a co host. Okay, so you can share your screen. Right.
+1:27:19 : Danny King : That's the saved spreadsheet.
+1:27:22 : QA Trainer : Okay, let me have a quick look, ok? Yeah, so you already have it, you already have it saved, right? So we still need to go through cause if you close it, it's you you've opened it separately, right? Not within the ok so you still need to go through the wizard, so let's try.
+1:27:41 : QA Trainer : To go through the wizard, the organization charts with the wizard, but then.
+1:27:53 : QA Trainer : So now, yeah, you wanna click try to click the first one let's information that's already stored yep because we'll try to upload the one that you've.
+1:28:05 : QA Trainer : You need to see.
+1:28:06 : Danny King : File. Yeah.
+1:28:08 : QA Trainer : Story somewhere information is stored in, OK, I'm assuming, yeah, it's stored on a probably separate server, so you can't link it to the, you can't choose desktop. So we need to go, go back.
+1:28:27 : QA Trainer : Click on the second option.
+1:28:33 : QA Trainer : Excel, you've got that ok next. The file do you want to replace it? Yes, say yes.
+1:28:43 : Danny King : On Tuesday the Excel's file that I just did.
+1:28:46 : QA Trainer : Okay, yeah, yeah, ok.
+1:28:51 : QA Trainer : Wait, I need to ok now what you can do is copy paste the content from the f the Excel that you already have saved. So it save time.
+1:29:04 : QA Trainer : No, don't don't upload it. Just just just ok so.
+1:29:08 : Danny King : Don't have it open, you just told me to close it down.
+1:29:11 : QA Trainer : No, no, I said, so this is your this is within the wizard, yeah? Just leave it as it is and open the the one that you have saved already.
+1:29:19 : Danny King : That's what was doing.
+1:29:22 : Danny King : Yeah, my old day today.
+1:29:24 : QA Trainer : Yeah.
+1:29:28 : QA Trainer : One cause you, but have you not.
+1:29:31 : Danny King : And of course cause I've just overridden it, you clicked on yes to override it so it's overridden it.
+1:29:36 : QA Trainer : No worry, ok. Oh, ok. Sorry. Okay, right. So, you.
+1:29:41 : Danny King : Yeah, I just wanted to. It's gonna take too long.
+1:29:46 : QA Trainer : It's gonna take a few minutes, it's ok.
+1:29:53 : Danny King : Do you want to share the screen again so I can get the names?
+1:29:57 : QA Trainer : Oh, mine yes, ok.
+1:30:05 : QA Trainer : It's.
+1:30:10 : QA Trainer : Let me see if I can copy paste them when I'm not. Okay let me see here.
+1:30:19 : QA Trainer : Contact oh bear with me one second. I need I want to see if I can go on my virtual machine and just copy paste it from there.
+1:30:32 : QA Trainer : Okay, let me save this because I need to save it first.
+1:30:38 : QA Trainer : Browse.
+1:30:43 : QA Trainer : To Makes.
+1:30:47 : QA Trainer : Just allow me to save there.
+1:30:58 : QA Trainer : Makes.
+1:31:15 : QA Trainer : I'll, I'll copy and paste it in.
+1:31:20 : QA Trainer : In the chat but I'm not sure if it's gonna work because if I paste it in the I don't think it's gonna work. I'm just gonna share my screen like this because if I paste it in the Webex, you can't copy it on the virtual machine. There are two separate devices that are considered devices. So I'm just gonna share my screen.
+1:31:44 : QA Trainer : Okay, there you go.
+1:34:00 : QA Trainer : Right now, do you want to share share your, share your screen again? Sure.
+1:34:06 : QA Trainer : Okay, stop.
+1:34:13 : Danny King : Okay.
+1:34:16 : QA Trainer : Can't see it yet.
+1:34:20 : QA Trainer : Okay, right. So, save, make sure you save your file and then.
+1:34:27 : Danny King : We'll save us.
+1:34:29 : QA Trainer : Save save and close and then close, and it should take you back to wizard. Okay, now.
+1:34:40 : QA Trainer : Don't include pictures next.
+1:34:45 : QA Trainer : Finish.
+1:34:49 : QA Trainer : Yeah, that's it.
+1:35:01 : QA Trainer : Yep. Is he good? Yeah.
+1:35:05 : QA Trainer : Okay cool. Now, you can stop sharing so I can share mine.
+1:35:17 : Sarah Randall : Yeah.
+1:35:21 : QA Trainer : Okay.
+1:35:24 : QA Trainer : All right.
+1:35:28 : QA Trainer : Okay.
+1:35:31 : QA Trainer : Okay hope back on mine.
+1:35:34 : QA Trainer : Right. So oops, sorry, not this one.
+1:35:39 : QA Trainer : Okay, so.
+1:35:42 : QA Trainer : So have you, you need to save, so save the file as HR team Excel.
+1:35:49 : QA Trainer : All of you need to save the file as I've already saved it so I could change the, the, the th the screen, the files, but save the file. Don't save as they just save as here as it is and name it HR team excel.
+1:36:07 : Roy Wilson : So sorry just repeat that so so not to say bad, but just to say.
+1:36:11 : QA Trainer : Save just a plain, just click on the, on the floppy disk and it should point you to the the backstage view and then just save it on your desktop as HR team Excel.
+1:36:27 : Danny King : HR team Excel.
+1:36:30 : QA Trainer : Oh yeah.
+1:36:31 : Danny King : Okay.
+1:36:41 : QA Trainer : Okay.
+1:36:44 : QA Trainer : We'll try to do.
+1:36:46 : QA Trainer : A different thing. So we're gonna try to open my org data directly in excel. So bear with me one second.
+1:36:58 : Sarah Randall : It's.
+1:37:02 : QA Trainer : Mhm.
+1:37:04 : QA Trainer : Have the, just trying to figure out on my way, so my organization data is here.
+1:37:14 : QA Trainer : Okay, so I'm gonna open my organization data.
+1:37:22 : QA Trainer : Okay, and then select one second.
+1:37:27 : QA Trainer : Okay, I'm.
+1:37:32 : QA Trainer : So I've got three more, ok?
+1:37:48 : QA Trainer : So I'm gonna.
+1:37:55 : QA Trainer : I'm gonna save this one.
+1:38:00 : QA Trainer : Only this one. Okay, so I'm gonna add three more people. So just open the my org data in the Excel.
+1:38:10 : Roy Wilson : We need to close Physio or not.
+1:38:14 : QA Trainer : Save it and if you wanna when you say yeah save it and close it.
+1:38:36 : QA Trainer : My org data, the Excel document.
+1:38:52 : QA Trainer : Unless we need we will add, we'll be adding three more people, so first one is James sorry Jason Hamilton.
+1:38:59 : QA Trainer : He reports to Daisy Collins.
+1:39:06 : QA Trainer : He's a permanent staff.
+1:39:13 : QA Trainer : This through HR.
+1:39:18 : QA Trainer : Ones have heavy Wait.
+1:39:27 : QA Trainer : He reports today Daisy Collins and he's a temporary staff.
+1:39:37 : QA Trainer : HR.
+1:39:43 : QA Trainer : Last one Jennifer Grant.
+1:39:53 : QA Trainer : Ports today's Collins.
+1:39:57 : QA Trainer : She's a graduate recruiter.
+1:40:07 : QA Trainer : In HR.
+1:40:12 : QA Trainer : Okay.
+1:40:14 : QA Trainer : So once you edit the three names I'll I'll keep it open for you to finish and just let me know when you're done.
+1:40:22 : QA Trainer : And when you're done, just save and close the excel. I'm just gonna wait until you let me know that you.
+1:40:28 : QA Trainer : Finished the adding adding the three names. So.
+1:40:35 : QA Trainer : Okay, so save.
+1:40:38 : QA Trainer : And close the excel.
+1:40:40 : QA Trainer : Okay, now, open again the, the video, the HR team excel Visio.
+1:41:02 : QA Trainer : Okay.
+1:41:04 : QA Trainer : From the organization chart tab on the ribbon, select import.
+1:41:11 : QA Trainer : On the right hand side.
+1:41:13 : QA Trainer : So imports within the organization data group, so import from here.
+1:41:23 : QA Trainer : Okay, as the Excel data now exists, we're just verify that.
+1:41:28 : QA Trainer : We will gonna choose information that's already stored in a database, so we'll change with the first one, first option.
+1:41:39 : QA Trainer : That's already stored in my database, click next.
+1:41:48 : QA Trainer : Okay accept the default option for file type, just leave it as it is, don't change. Next.
+1:41:58 : QA Trainer : Browse, click on browse and choose from wherever you save the document, my org data.
+1:42:11 : QA Trainer : Okay.
+1:42:18 : QA Trainer : Okay, now, note how the reports to column defines the the layout, so you have the name reports two.
+1:42:26 : QA Trainer : So exactly as per.
+1:42:30 : QA Trainer : The the file, and then click next.
+1:42:35 : QA Trainer : So reports your name department title.
+1:42:39 : QA Trainer : We leave it as it is. Hopefully it should work. Next.
+1:42:53 : QA Trainer : And then.
+1:42:56 : QA Trainer : Okay, again, if you see don't include, just don't include.
+1:43:00 : QA Trainer : Click on leave it as, as it is, don't don't include pictures next.
+1:43:10 : QA Trainer : Finish. Okay, perfect.
+1:43:16 : QA Trainer : Have you got the same results as you see on the screen?
+1:43:19 : Danny King : Yeah.
+1:43:21 : QA Trainer : So basically this lets you update. So if you update the organ, the Excel that you use to create the the chart then if you go into imports and upload the same Excel, it's gonna import the data automatically in, so any kind of updates you do on the Excel, they'll reflect.
+1:43:42 : QA Trainer : In, on the chart.
+1:43:48 : Roy Wilson : Export one the opposite way to import, so if you change things on the chart.
+1:43:52 : QA Trainer : Yeah. Yeah.
+1:43:56 : QA Trainer : Yeah.
+1:44:00 : QA Trainer : Okay, right. So moving on.
+1:44:05 : QA Trainer : To the next activity, so I'll say let's click let's save and close the video file.
+1:44:17 : QA Trainer : Let's check something.
+1:44:25 : QA Trainer : Right, ok, so.
+1:44:28 : QA Trainer : Now, next one we're gonna see how we can control the organization chart structure, ok? So, in this scenario an organization structure has been defined using Excel.
+1:44:41 : QA Trainer : And your manager has asked you to import this content into Visio. Having viewed the level of detail with, within Excel, you have identified that the best layout will be to separate each department to its own unique video page. That's improving the readability. So from the activity folders, let's open organization department.
+1:45:01 : QA Trainer : So via Excel file.
+1:45:05 : QA Trainer : So.
+1:45:22 : QA Trainer : Okay.
+1:45:24 : QA Trainer : So, just know the number of overall personnel departments they represent an additional contact information. So name manager, job title department, email, contact, number, and.
+1:45:39 : QA Trainer : Master shape, ok? Now, on row thirty six.
+1:45:46 : QA Trainer : So just scroll down.
+1:45:50 : QA Trainer : Fifty six there is the showing of vacancy within the IT IT department. So it says it's marked as vacancy here.
+1:46:00 : QA Trainer : Okay, now the in this instruction is to close the excel. Let me just ok so we can close this Excel. The one that we opened just close it.
+1:46:19 : QA Trainer : Let's let's bear with me one second. So.
+1:46:26 : QA Trainer : So it says, so open Windows Explorer and navigate to the organizational pictures folder. So we have.
+1:46:34 : QA Trainer : One second, Organizational pictures, bear with me.
+1:46:42 : QA Trainer : To view its content, know the files are regular images. So Windows Explorer.
+1:46:49 : QA Trainer : So within the.
+1:46:52 : QA Trainer : Within, the th the folder I sent you, there is a folder called organizational pictures.
+1:47:05 : QA Trainer : Can you see it?
+1:47:08 : Roy Wilson : And.
+1:47:10 : QA Trainer : Right, so.
+1:47:12 : QA Trainer : Oh no, within Visio we will create a new organization chart drawings so we're gonna go back in Visio organization chart wizard.
+1:47:22 : QA Trainer : So back in Visio.
+1:47:29 : QA Trainer : You should see that the top organization chart wizard.
+1:47:34 : QA Trainer : Leave it on metric units, create.
+1:47:38 : Danny King : That's.
+1:47:39 : QA Trainer : So issued information that's already stored in a file is selected so the first one, the first option.
+1:47:50 : QA Trainer : You already have selected a text or a Excel file, so just leave it as it is and click next.
+1:47:58 : QA Trainer : Now we want to browse to the organization departments Excel. So.
+1:48:09 : QA Trainer : If you don't see it, just go inside the.
+1:48:14 : QA Trainer : The document via the folder I sent you and then choose organization departments Excel.
+1:48:29 : QA Trainer : Okay, then click next.
+1:48:37 : QA Trainer : Select next confirming that the name and the major columns defined the organizational structure, so name and manager exactly what you see.
+1:48:45 : QA Trainer : Using the add button, so you have a.
+1:48:50 : QA Trainer : Add button, one second.
+1:48:59 : QA Trainer : Do you see any add button cause I can't see on my side.
+1:49:06 : QA Trainer : There should be an add button confirming confirm the field's name, job title and department will be displayed within the organization's shapes. The thing is I can't see any add button on my side, so you might be that.
+1:49:16 : Sarah Randall : And then the next page, if you go next. Must be that.
+1:49:20 : QA Trainer : Okay, yeah, thank you. Thank you, thank you. So, so choose the name, job title. So.
+1:49:28 : QA Trainer : You already have the name, then move job title.
+1:49:31 : Danny King : Huh.
+1:49:38 : QA Trainer : You should see J named job title and departments and then.
+1:49:44 : QA Trainer : Let's order and then click on next.
+1:49:48 : QA Trainer : Okay then let's ensure the manager email and contact number will be shown as additional shape, so.
+1:49:56 : QA Trainer : Can add.
+1:50:04 : QA Trainer : So many your email and contact numbers, so I'm gonna.
+1:50:08 : QA Trainer : Add manage your email and contact number.
+1:50:18 : QA Trainer : And then click next.
+1:50:24 : QA Trainer : Now next one loki, the folder that contains organizational pictures. So you're gonna choose the second option, locate the folder that contains organ the organization pictures.
+1:50:40 : QA Trainer : So then browse.
+1:50:46 : QA Trainer : You'd want to go on your So inside your organizational pictures.
+1:50:58 : QA Trainer : Sure much pictures based on right.
+1:51:10 : QA Trainer : Do you see the same thing what I as me or do you, do you see any.
+1:51:14 : Roy Wilson : Same thing.
+1:51:16 : QA Trainer : Okay.
+1:51:24 : QA Trainer : So we did everything as.
+1:51:29 : QA Trainer : Instructed.
+1:51:30 : Sarah Randall : Think if you.
+1:51:31 : Sarah Randall : And it will, even though it says nothing click on it will allow you to add the link in and then it looks like it whatever.
+1:51:37 : Danny King : There are gone, yeah, that's where I've got, yeah.
+1:51:45 : QA Trainer : Based on name, name is selected and then choose next.
+1:51:51 : QA Trainer : Okay, so I'll make sure you have the option. I want to specify how much of my organization to display, so, so the first one, I want to specify how much of my organization to display on each page.
+1:52:05 : QA Trainer : And then select next.
+1:52:11 : QA Trainer : Okay, now from here.
+1:52:17 : QA Trainer : Select modify page and if necessary change stop executives so.
+1:52:21 : QA Trainer : Select modify page, and if necessary changed up executive to Mark Thomas, no, we already have Topmark Thomas there. We just one additional level displayed and add the page name and as management.
+1:52:37 : QA Trainer : So we just made management.
+1:52:52 : QA Trainer : I'm ok and here we just also coordinates, so number of additional levels, one.
+1:53:02 : QA Trainer : Okay, click OK.
+1:53:08 : QA Trainer : Then add page. So we need to do the same thing.
+1:53:16 : QA Trainer : Other, member of staff so then at Paige and build up additional department pages using the information in the image below. So right I'm gonna do it so add page, right. So we've got Sarah Wallace as instead of topic executive Sarah, Wallace, you should see her.
+1:53:37 : QA Trainer : Number of additional levels, just leave also coordinates, then Paige page name HR. Oh.
+1:53:49 : QA Trainer : Sorry, I don't know what happened. Start again.
+1:54:03 : QA Trainer : And page HR.
+1:54:16 : QA Trainer : Okay next one Jim Clemens, so again at page, top executive, Jim, ok, you already see his name, you leave it's a number of additional levels just leave all subordinates and then a page name is IT.
+1:54:38 : QA Trainer : Okay.
+1:54:41 : QA Trainer : Next one, a page.
+1:54:44 : QA Trainer : Jessica Thompson.
+1:54:48 : QA Trainer : Okay, alright, also coordinates leave it as it is and then the name is marketing.
+1:54:57 : QA Trainer : Okay.
+1:55:01 : QA Trainer : Can add a new page, Chris, Jacobs.
+1:55:07 : QA Trainer : You leave also coordinates and then the name page is finance.
+1:55:15 : QA Trainer : And the last one, Felipe Jarvis.
+1:55:21 : QA Trainer : Also coordinates and then sales.
+1:55:24 : QA Trainer : Okay, I'll wait for you to finish and then let me know when, when you have, when you reach the same.
+1:55:32 : Danny King : Yeah.
+1:55:35 : Danny King : Yes, well I am.
+1:55:37 : QA Trainer : Okay.
+1:55:39 : Roy Wilson : Yeah, which is important as.
+1:55:42 : QA Trainer : Right, select finish for Visio to construct, so just select finish.
+1:55:56 : QA Trainer : Okay, so.
+1:56:01 : QA Trainer : It imported the the visual as well. So the images then at the bottom you can see all the pages that we've created. Management HR IT marketing finance, and sales.
+1:56:19 : QA Trainer : And then there's, there should be no it's fine. I don't.
+1:56:28 : QA Trainer : Now what I wanna do is.
+1:56:34 : QA Trainer : So, let's go on the sales page.
+1:56:41 : QA Trainer : Okay, control select so type on Jessica Jarvis.
+1:56:59 : QA Trainer : And it's either really small to Messa. Okay, first one is the HR, the safe director.
+1:57:11 : QA Trainer : So what I want to do is try to link her.
+1:57:16 : QA Trainer : We'll try to link this shape to the one on the management page. So.
+1:57:22 : QA Trainer : From the, the view, the view tab here, we're gonna tab tick shape data. So.
+1:57:36 : QA Trainer : Okay, one second.
+1:58:03 : QA Trainer : So you go under task payment pins and then choose shape data.
+1:58:12 : QA Trainer : I'm gonna choose select any shape to view the additional contact information. So if you go on any other shape, you can see, it depends on how it's displayed, but you might want to increase it.
+1:58:26 : QA Trainer : Okay, so if you go on any shape, you can see, additional information such as the manager, the email, contact number.
+1:58:37 : QA Trainer : The full name, job title, who reports to and so on and so forth.
+1:58:42 : Roy Wilson : Sorry, I missed I missed what you clicked in the view.
+1:58:46 : QA Trainer : Yeah, the view task panes.
+1:58:47 : Roy Wilson : My own task pane's right yeah.
+1:58:49 : QA Trainer : Take data and just go on any, any shape. So basically this is the metadata we mentioned we we talked about in the first.
+1:58:59 : QA Trainer : Part of this, of the session. So this is the additional data.
+1:59:03 : QA Trainer : That you can see on this occasion, so obviously it's gonna it it depends on, you remember when we created with the wizard with we chose some, some sections, some, so depending on what you choose there, it's gonna show up in the shape data, in the metadata.
+1:59:28 : QA Trainer : Right, ok, and now the next step will be just save the drawing as the organizational departments and leave open for next activity. So we're gonna save the drawing and name it organizational departments, ok, and leave it open. So save, again, save on on this stop.
+1:59:51 : QA Trainer : Name it Organizational.
+1:59:55 : QA Trainer : Organization.
+2:00:07 : QA Trainer : Leave it open.
+2:00:19 : QA Trainer : Let me know when you're ready. Yeah.
+2:00:25 : QA Trainer : All of you? Yeah.
+2:00:28 : QA Trainer : Good, so for the next activity, we'll see how you can modify the layout of an organization chart. So within the same file, go on the IT page.
+2:00:45 : QA Trainer : Within, and then you can see it's, it shows up slightly.
+2:00:51 : QA Trainer : Messy, ok? Now, we look for the shape called Gary Hope, so I need to this again.
+2:01:21 : QA Trainer : Gary hope.
+2:01:27 : QA Trainer : Okay, so make sure you you when you select your select the the whole shape, ok, who's senior software developer? Right click on the shape and then selects subordinates. So right click on the shapes, subordinates and then arrange subordinates.
+2:01:47 : QA Trainer : And then you wanna click side by side. So first top top right corner.
+2:01:57 : QA Trainer : And then click OK.
+2:02:01 : QA Trainer : And what he did, he changed the layout. Now.
+2:02:08 : QA Trainer : We want to select Nicolab Petter Petterson shape. So.
+2:02:23 : QA Trainer : So again, make sure you select the whole shape, not just.
+2:02:28 : QA Trainer : The information on it.
+2:02:30 : QA Trainer : Okay.
+2:02:35 : QA Trainer : Right click on the shape and then.
+2:02:39 : QA Trainer : Right click on the shape and then from subordinates choose hide subordinates. So what he needed just, it.
+2:02:47 : QA Trainer : All the subordinates she had just were hidden.
+2:02:53 : QA Trainer : Click back subordinates, and show subordinates. So they will put back on.
+2:03:03 : QA Trainer : Okay.
+2:03:07 : QA Trainer : Now, two, two, two, two, two, so what we want to do is, let me just see. Yep, so if I I don't know how you see it on your on your side, but if you look at my.
+2:03:21 : QA Trainer : One, let me see.
+2:03:25 : QA Trainer : It shows.
+2:03:27 : QA Trainer : It shows it showed on two pages, so if you go at a very top, jim Clemens and you drag towards the left hand side and maybe I don't know if you tried lower, it's gonna move the whole chart.
+2:03:43 : QA Trainer : As a group as well. It's, ok, so there's no.
+2:03:48 : QA Trainer : Yeah so now it fits on a whole page on a single page.
+2:03:51 : Danny King : Yeah.
+2:04:01 : QA Trainer : Okay let's see.
+2:04:06 : QA Trainer : It's so bear with me one second.
+2:04:14 : QA Trainer : Okay, let's try to do one last thing, you would need to, I need to increase the, the zone to zoom in. So what we want to change is we want to change the connector to.
+2:04:26 : QA Trainer : Bottom to top. So just.
+2:04:34 : QA Trainer : Okay, that's fine. It's ok.
+2:05:00 : QA Trainer : Okay and then we can just save and close the file. So save.
+2:05:04 : QA Trainer : And close.
+2:05:15 : QA Trainer : So we've seen how to manually create an organization chart. We've seen how to create a charts with a wizard, how to modify the layout of an organization chart. Do you, do you have any questions.
+2:05:31 : QA Trainer : At the, at the moment? No.
+2:05:33 : Danny King : Far now, not me.
+2:05:37 : QA Trainer : Okay, right. So let's do a, independent activity so we're working with the organization charts. So let me think.
+2:05:50 : QA Trainer : So, this activity is aimed to design an organization chart. An organization team using an excel spreadsheet. So open the up the folder.
+2:06:03 : QA Trainer : I sent you so all the QA video.
+2:06:07 : QA Trainer : And then open EIA organization chart data.
+2:06:19 : QA Trainer : If you have it.
+2:06:24 : QA Trainer : So I have an organizational data, but I'm not sure if this is the one because it doesn't have the AIA in it.
+2:06:39 : QA Trainer : Yeah I should it's not it's not the same one, shouldn't be the same one.
+2:06:44 : QA Trainer : Have you got any IAA cause I don't have it on my side.
+2:06:49 : Danny King : No, and now I organizational data.
+2:07:00 : Danny King : Insight on states is the only one that.
+2:07:03 : QA Trainer : Yeah, nicely the one.
+2:07:12 : QA Trainer : This is something else.
+2:07:21 : QA Trainer : Nope.
+2:07:39 : QA Trainer : Bear with me one second.
+2:07:44 : QA Trainer : Yeah, probably they forgot to include it, no idea.
+2:07:49 : QA Trainer : So organization chart data, ok, let's open organization chart data then.
+2:07:59 : QA Trainer : Okay.
+2:08:04 : QA Trainer : Let's go back on Visio and access organization wizard template from the business category, so again organization chart in business. So.
+2:08:16 : QA Trainer : Visio.
+2:08:21 : QA Trainer : You should see it at the top, ok, organization chart wizard.
+2:08:33 : QA Trainer : Select information that I entered using the wizard, so the second one.
+2:08:44 : QA Trainer : I'm, use the Excel as the source file, but then.
+2:08:49 : QA Trainer : So select, ok, one second.
+2:08:54 : QA Trainer : Because it doesn't make sense. They say if you select information I entered using the wizard.
+2:09:01 : QA Trainer : Then I'm supposed to ok let's see. So, go on, click Excel, click browse.
+2:09:13 : Danny King : I said the way.
+2:09:14 : QA Trainer : Button. Okay.
+2:09:15 : Danny King : In the organization chart with it again.
+2:09:18 : QA Trainer : Oh yes, yeah.
+2:09:30 : QA Trainer : Also browse and then choose organization chart data.
+2:09:40 : QA Trainer : Okay, let me.
+2:09:46 : QA Trainer : Because it, ok, I understand. Okay, so basically if I choose like that, ok.
+2:09:55 : QA Trainer : Okay cause the, the actual task doesn't mention any other.
+2:10:01 : QA Trainer : But doesn't make sense. So if I manage your reports to.
+2:10:07 : QA Trainer : Okay so probably I think there might be a mistake on their side, so let's go back. Let's try something else. So let's go just go back and choose information that's already stored in a file. Because.
+2:10:22 : QA Trainer : We've the option that you already have selected. Next.
+2:10:31 : QA Trainer : Now choose organization chart data.
+2:10:35 : Danny King : Yeah.
+2:10:39 : QA Trainer : Oh, because like why? Okay, let me close it probably because of that.
+2:10:46 : QA Trainer : Sorry again. Yeah.
+2:10:50 : QA Trainer : So you make sure that you close the the Excel file before selecting it.
+2:10:58 : QA Trainer : Select name as the identifiers, so we've done that and then line manager reports to and to.
+2:11:08 : QA Trainer : Reports too, sorry.
+2:11:12 : QA Trainer : Line major as the reports to values. So rely manager. I don't have Do you see any line manager here?
+2:11:22 : QA Trainer : Hey, and let me go back. Okay, bear with me one second.
+2:11:33 : QA Trainer : Because there's no.
+2:11:37 : Danny King : No data.
+2:11:38 : QA Trainer : Eight time. So I'm thinking. So.
+2:11:55 : Roy Wilson : Wouldn't it being column C where it says reporting that that should be line manager.
+2:12:00 : QA Trainer : So yeah I'm thinking yes, same.
+2:12:04 : QA Trainer : Because they pick up.
+2:12:06 : Danny King : Yeah, it's got a name in there at the moment. Yeah.
+2:12:12 : QA Trainer : Just change, let's change it to line manager.
+2:12:16 : QA Trainer : Then we're gonna save, close, and then start again the whole thing or just go back, not, not start but just go back browse and up upload the new one, the new organization chart data.
+2:12:36 : QA Trainer : Reports to line manager. Yep.
+2:12:42 : QA Trainer : Okay.
+2:12:46 : QA Trainer : That ok display location department as display fields name is included by default, so.
+2:12:59 : QA Trainer : Description. Okay let's click next.
+2:13:06 : QA Trainer : Patient departments, so we've got, we haven't got locations so we definitely yeah they've I think they've probably forgot to include the to include the file, the actual I IAA file. So just gonna.
+2:13:20 : QA Trainer : Choose.
+2:13:22 : QA Trainer : Look we're gonna choose department.
+2:13:29 : QA Trainer : Name isn't. So.
+2:13:32 : QA Trainer : Let's choose, let's choose let's choose let's choose I'm a line manager, see if, if we can do, if we can if not we're gonna go back at the source and just just I don't know location.
+2:13:45 : QA Trainer : Okay.
+2:13:49 : QA Trainer : Any additional fields as desired to shape data. Let's, let's include the phone as well. Let's include the phone.
+2:13:58 : QA Trainer : And then.
+2:14:01 : QA Trainer : You can change if you wanted to in a certain order, you can use the up and down buttons at the botto at the bottom if not, just leave it as it is. Next.
+2:14:14 : QA Trainer : We're gonna choose don't include pictures.
+2:14:19 : QA Trainer : Okay, then next again.
+2:14:23 : QA Trainer : Choose I want to specify, so the one that's already selected.
+2:14:31 : QA Trainer : And now we need to include, yeah, it's definitely a different file, but we'll.
+2:14:38 : QA Trainer : I've got some names here, so I'm just gonna do like I did the last time. So, we're going to Brian Murphy so Brian Murphy will, he's not showing up amongst the, what I should see, what we should see. So we're gonna deal the page and just add a new one. So first one is.
+2:14:59 : QA Trainer : Billy Shaw.
+2:15:06 : QA Trainer : Also coordinates one H name.
+2:15:12 : QA Trainer : Okay, that's fine.
+2:15:15 : QA Trainer : Management five.
+2:15:18 : QA Trainer : Well management five, sorry. Page name management.
+2:15:22 : QA Trainer : Okay employee B name is not yeah because it's not the.
+2:15:32 : Roy Wilson : Click on the dropdown by the name, it gives you the people that we've got in the.
+2:15:37 : Roy Wilson : Spreadsheet and.
+2:15:38 : QA Trainer : Yeah, we had Brian Murphy.
+2:15:40 : QA Trainer : Yeah.
+2:15:43 : QA Trainer : So we're gonna, you're gonna go with.
+2:15:47 : QA Trainer : With what we see. So.
+2:15:54 : Roy Wilson : Yeah.
+2:15:54 : QA Trainer : Yeah, yeah, yeah.
+2:15:56 : Roy Wilson : Let's say.
+2:15:57 : QA Trainer : Choose, ok, Brian Murphy.
+2:16:00 : QA Trainer : Regarding import the information directly from the.
+2:16:04 : QA Trainer : From the spreadsheet, so we're gonna say one, what is it?
+2:16:09 : QA Trainer : Visio.
+2:16:12 : QA Trainer : A level is gonna be.
+2:16:16 : QA Trainer : CO can I say CO management COO.
+2:16:22 : QA Trainer : Okay, at page.
+2:16:26 : QA Trainer : Next one is Gary Martin. IT direct director.
+2:16:34 : QA Trainer : So we leave leave all subordinates, page name should be IT.
+2:16:45 : QA Trainer : Okay.
+2:16:48 : QA Trainer : Okay.
+2:16:51 : QA Trainer : Add page, next one is.
+2:16:55 : QA Trainer : Sheila Jarvis.
+2:17:01 : QA Trainer : You leave also coordinates and then choose HR.
+2:17:11 : QA Trainer : At Paige oh, next one is the David Clark.
+2:17:20 : QA Trainer : Also needs and then page name is, sales.
+2:17:30 : QA Trainer : Okay.
+2:17:32 : QA Trainer : I think.
+2:17:34 : QA Trainer : I forgot something here. So.
+2:17:38 : QA Trainer : Twenty five page.
+2:17:41 : QA Trainer : So I should have chosen, I think David let me double check. Now the Gary Martin.
+2:17:52 : QA Trainer : Right, and then last one.
+2:17:57 : QA Trainer : Colleen Brown.
+2:18:02 : QA Trainer : And the page name is operations.
+2:18:05 : Roy Wilson : Yeah.
+2:18:10 : Roy Wilson : Okay.
+2:18:17 : QA Trainer : Okay, now from here, let's see.
+2:18:23 : QA Trainer : Niche to finish.
+2:18:28 : QA Trainer : Do you see what I see? On your side?
+2:18:38 : Roy Wilson : Cause they're split over different pages, aren't they?
+2:18:41 : QA Trainer : So yes, so I mean on the yeah on the first one, yeah, you see, you, you should see so there's no because there's no yes, because the organization charts that we worked with only has four or five names, nothing, so on the original one, there was a list of, a lot of names. So.
+2:18:58 : Danny King : So there's no support.
+2:19:00 : QA Trainer : The coordinates, yeah.
+2:19:01 : Roy Wilson : So to the CEO tab does show.
+2:19:05 : QA Trainer : Just this one.
+2:19:05 : Roy Wilson : Okay.
+2:19:09 : QA Trainer : Okay.
+2:19:16 : QA Trainer : Let me see. So, yeah, yeah, it's definitely the, what they've the the the exercise, the task they've created was based on a different files which we haven't.
+2:19:29 : QA Trainer : So what we can do is, let me just double check one thing.
+2:19:34 : QA Trainer : Let's let's save this one. Let's save it with Excel org chart. We're gonna put.
+2:19:41 : QA Trainer : But yeah, it's only IA. So.
+2:19:46 : QA Trainer : Save browse and just choose document and then name it I A.
+2:19:54 : QA Trainer : Excel org chart.
+2:20:04 : QA Trainer : And then, close.
+2:20:11 : QA Trainer : Now, what I would like to do is something that's more.
+2:20:16 : QA Trainer : Applied on, on what you what what you work with on a daily basis. So I wanna ask, have you got or you don't have to share it with me because it's confidential, but have you got any similar worksheets Excel that you could use to create a chart? Now.
+2:20:39 : QA Trainer : It can be.
+2:20:42 : Sarah Randall : No, we wouldn't do because all of our organizational charts are on Suzanne so it's unlikely anybody would have data like that.
+2:20:49 : QA Trainer : Okay.
+2:20:51 : Danny King : Organizational chart or any data.
+2:20:55 : QA Trainer : I'm thinking I'm think organizational chart, but.
+2:20:59 : QA Trainer : Do you have any, any data that could.
+2:21:02 : QA Trainer : Applicable for, what we've seen? So for the organiz some sort of a chart that you could use the wizard with or just have a.
+2:21:23 : Roy Wilson : I think if if we've got anything in caslog order that the castlocks will only go down to deep or compare it another subparent on the caslog.
+2:23:08 : Roy Wilson : South.
+2:23:11 : Danny King : Not the top of my head, some of our other stuff's gonna be a bit over complex isn't it, right?
+2:23:17 : Roy Wilson : Yeah, and most only sits in in two layers, but you really want something that's got three four layers really.
+2:23:45 : QA Trainer : I'm trying to see, I I'm I tried to just see if we can use any other type of information. Any.
+2:23:54 : QA Trainer : Any maybe.
+2:23:56 : QA Trainer : Training related in terms of participants or where you have a list of names with roles.
+2:24:05 : QA Trainer : Stuff like that.
+2:24:07 : Roy Wilson : Right cause, again, our HR department deals with all our training and.
+2:24:10 : QA Trainer : Yeah, ok. So.
+2:24:12 : Sarah Randall : I don't have any none of us would have any of that sort of data.
+2:24:16 : Danny King : Yeah.
+2:24:20 : QA Trainer : Right, so let me just do a quick.
+2:24:28 : QA Trainer : Bear with me, I tried to do something on the spot, so actually I'll try to create such an organization.
+2:24:36 : QA Trainer : Organizational chart so bear with me a second, so let's see if I can do it with AI.
+2:26:12 : Danny King : I'll.
+2:26:16 : QA Trainer : I mean I'm trying to create one with.
+2:26:20 : QA Trainer : We have a moment because just create and download one so we can practice more.
+2:26:28 : QA Trainer : Time manager, let me ok.
+2:27:17 : QA Trainer : Let's see what it gives.
+2:27:44 : QA Trainer : Need something, let me see.
+2:28:20 : QA Trainer : Johnson, right. So this might be helpful, so what I'm gonna do is I'll have to upload it and you have to download it from the DND.
+2:28:30 : QA Trainer : Okay so I'm gonna do that now.
+2:28:42 : QA Trainer : Disrupt time.
+2:29:14 : QA Trainer : You should know when you can download it.
+2:29:40 : QA Trainer : While it's uploading, I'll try to see if they.
+2:31:21 : QA Trainer : Uploading.
+2:31:23 : Danny King : It's.
+2:31:25 : QA Trainer : An accelerate I don't know why it takes so long.
+2:31:41 : QA Trainer : Actually went into a different ok into an older version of the course and I managed to find the AI, the IA organization chart data, so I'm gonna send you that as well. I'm gonna send both. Okay, now you should be able to see them if you go on.
+2:31:59 : QA Trainer : Instructions.
+2:32:05 : QA Trainer : You should see the.
+2:32:08 : QA Trainer : Under DVD, no media.
+2:32:13 : QA Trainer : Can you see it on or not.
+2:32:18 : Roy Wilson : Don't know, not yet.
+2:32:23 : Roy Wilson : To say you shared something, but I couldn't see.
+2:32:25 : QA Trainer : Restructure that shared. Okay yeah can you see that? I can see them now on my side. So if you see them as well.
+2:32:33 : Roy Wilson : It was just a message that flashed up I couldn't see any.
+2:32:35 : QA Trainer : Yeah, and if you if you click on no media or QA visio, whatever you see at the just above.
+2:32:43 : QA Trainer : If you go, you need to be only sources resources, so instructions resources.
+2:32:49 : Roy Wilson : Is this in the DVD drive you're talking about.
+2:32:52 : QA Trainer : Yeah DVD driving should see three things. Yeah, I see. Okay perfect. Now, again, you need to go on the, the virtual machine and go on just Windows Explorer window and.
+2:33:18 : QA Trainer : Okay, close if you have anything open that's then it's in your way, just close it. Then go on.
+2:33:28 : Roy Wilson : Yeah yep yep.
+2:33:34 : QA Trainer : You can see because it's it's so weird. I can't see it on my side, but you can on your side, right? That's good.
+2:33:39 : Roy Wilson : Desktop now yep got it now.
+2:33:42 : QA Trainer : Okay.
+2:33:43 : Danny King : What we're looking for.
+2:33:45 : QA Trainer : IAA organizations are data and the.
+2:33:48 : Roy Wilson : In your little side window where you've got DVD drive, if you change it from the original folder which is queue something.
+2:33:56 : QA Trainer : I'll share my screen, I'll share my screen with you.
+2:33:59 : Danny King : Yeah, this is. Yeah.
+2:34:01 : QA Trainer : See my screen?
+2:34:04 : QA Trainer : Yeah, so you go, you have instructions and then you have resources, go on resources, and then click on DVD drive and you should see three items.
+2:34:15 : QA Trainer : Okay, go on I IA organization chart data.
+2:34:18 : Danny King : Huh.
+2:34:20 : QA Trainer : Is the, the, the document we needed which I found in an older version of the course. So yeah.
+2:34:28 : QA Trainer : I'm.
+2:34:31 : QA Trainer : Okay, so see if you can open that and I want to I I want to allow to give you time as, as much as you need to take to do the whole steps again, but this time with the, with using the information, the data from this Excel. So using.
+2:34:51 : QA Trainer : The wizard.
+2:35:14 : QA Trainer : Okay.
+2:35:39 : QA Trainer : Yeah.
+2:43:47 : QA Trainer : I'll wait for all of you to finish and then you can share your screen and you can show us what the result is.
+2:43:54 : QA Trainer : And then I'll give you some other tasks to do on top of the or based on what you've told, what you've what you've done just now.
+2:44:44 : Gary : I've done main but I don't think I should I.
+2:44:47 : QA Trainer : Thanks.
+2:44:50 : Roy Wilson : Yeah.
+2:44:52 : Gary : Huge.
+2:44:53 : QA Trainer : Can you share your screen?
+2:45:00 : QA Trainer : I can share your screen so I can, I can help you.
+2:45:06 : QA Trainer : Yep, Gary, ok.
+2:45:11 : Roy Wilson : You can't seem to get money to fit on a page and I can't remember what we did to get to fit on the page.
+2:45:15 : QA Trainer : Let's see, let's see.
+2:45:21 : Roy Wilson : There we go first, but.
+2:45:22 : QA Trainer : Yeah. So Gary usually when you share your.
+2:45:27 : Gary : Maybe because I messed about the.
+2:45:31 : Gary : Okay worry you can see it.
+2:45:34 : QA Trainer : I can't.
+2:45:38 : QA Trainer : Okay.
+2:45:43 : Gary : In Clopsies.
+2:45:46 : QA Trainer : Well it's a huge well ok.
+2:45:49 : QA Trainer : So I think you've.
+2:45:54 : QA Trainer : Right so you said everything on one page.
+2:45:58 : Roy Wilson : Let's see.
+2:46:00 : QA Trainer : Hey so what's ok so basically you're, you're saying that it's a bit messy, right? Yeah. You have a lot of stuff on on many pages.
+2:46:10 : QA Trainer : Okay so let's see.
+2:46:13 : QA Trainer : Started.
+2:46:16 : QA Trainer : Right, bear with me one second.
+2:46:21 : QA Trainer : So let's look again basically how to control this the organization chart structure, ok? So how can we.
+2:46:31 : QA Trainer : Put it on multiple pages. So.
+2:46:38 : QA Trainer : In the organ in in in Wizard.
+2:46:44 : QA Trainer : We had the option at some point to.
+2:46:49 : QA Trainer : One second.
+2:46:50 : Gary : Go through it again.
+2:46:52 : QA Trainer : Yeah, ok, let's go through. So I'll guide you.
+2:46:57 : QA Trainer : I I don't have the guide for this one. Just open the.
+2:47:02 : QA Trainer : The one that you've ok do you ok let's do ok let's do, let's do the same activity again. So.
+2:47:10 : QA Trainer : Okay, let me open mine as well.
+2:47:14 : QA Trainer : Need what organization departments. So.
+2:47:22 : Gary : The wrong here.
+2:47:26 : QA Trainer : Organization departments. Okay.
+2:47:31 : QA Trainer : Right. Okay, so.
+2:47:37 : QA Trainer : And you remember, what I will do actually I think I will I'll just rename because I already we already have one so I don't wanna, organization departments. I'm gonna rename I would advise you to do the same, so I would advise you to because you already saved an organizational department's visio, document on desktop, so what i.
+2:47:58 : QA Trainer : I would do is I'll rename it to your organizational departments.
+2:48:04 : QA Trainer : One point one.
+2:48:09 : Gary : Point to rename that.
+2:48:12 : QA Trainer : So the the one that we've already saved, the one that you have on the on desktop.
+2:48:17 : QA Trainer : Called organization organizational departments of the Visio document, just add one point one, just rename it to one point one.
+2:48:27 : QA Trainer : You already have, yeah, so you just go on your on your desktop.
+2:48:30 : Gary : Yep.
+2:48:35 : QA Trainer : He's.
+2:48:37 : QA Trainer : Just.
+2:48:44 : QA Trainer : We've one sorry. So which one have you what, what have you done cause I haven't seen what you've done.
+2:48:49 : Gary : When the org department.
+2:48:51 : QA Trainer : No, no. So cancel, cancel.
+2:48:55 : Danny King : Okay.
+2:48:55 : QA Trainer : On your desktop.
+2:48:59 : QA Trainer : Go on your desk, not not not your there with what you do there is choose save files, so just go on your, just minimize.
+2:49:09 : QA Trainer : Or closed, yeah?
+2:49:13 : QA Trainer : Okay, so have you got anywhere organizational departments.
+2:49:20 : Gary : The system right org that.
+2:49:23 : QA Trainer : Okay, great. Okay org that's fine. Just call it.
+2:49:27 : QA Trainer : Org depth or just organizational departments one point one.
+2:49:38 : QA Trainer : Okay, so we know that one point one refers to the same file, ok?
+2:49:45 : QA Trainer : Okay so you can stop stop sharing so I can share my on my side.
+2:49:53 : QA Trainer : Okay.
+2:49:57 : QA Trainer : Okay, so let's do the same task again though. I'm gonna open, organization departments and close just oh wait wait for me. So.
+2:50:07 : Roy Wilson : Yeah.
+2:50:11 : QA Trainer : So we've it's the one where we have the organizational pictures. I mean, they're optional, but we will do, we will use them but for the, for the new task independent task the one that you've done before, there's no picture, so we're not gonna use pictures. There is no issue with that. Now what we will do is.
+2:50:30 : QA Trainer : Just minimize everything that you have and go open and go on Visio and open a organization chart wizard, a brand new one.
+2:50:50 : QA Trainer : Okay, click on create.
+2:50:58 : QA Trainer : Right. So from here, we've got issue information that's already stored in a, in a file.
+2:51:06 : QA Trainer : Clicked. So.
+2:51:07 : QA Trainer : As it is, click on next, again.
+2:51:12 : Gary : Share your screen again, please, sorry.
+2:51:14 : QA Trainer : Sorry apologies yep, I thought I I did. Sorry.
+2:51:22 : QA Trainer : Yeah, so I'll go back. So this is one, when you click on create, this is what you should see.
+2:51:31 : QA Trainer : Okay, click on information that's already stored.
+2:51:33 : Gary : That came up yet.
+2:51:38 : Gary : I'm not seeing yet.
+2:51:40 : QA Trainer : I don't see anything.
+2:51:44 : QA Trainer : I guess.
+2:51:46 : QA Trainer : Anyone else?
+2:51:53 : QA Trainer : Can anyone see my screen? Or i'll stop sharing and share it.
+2:52:06 : Gary : Just see a blue circle.
+2:52:10 : QA Trainer : Do you see a blue circle, it means it's loading, it probably means it's loading.
+2:52:13 : Danny King : Yeah.
+2:52:17 : Gary : Can you see it.
+2:52:23 : Danny King : That's screen. Yeah.
+2:52:26 : Roy Wilson : Yeah.
+2:52:27 : QA Trainer : Only the connection Gary.
+2:52:29 : Gary : Okay.
+2:52:30 : QA Trainer : Connection. Well, we'll just give you the few more minutes.
+2:52:53 : QA Trainer : We have any, anything happens? So can you see now?
+2:52:58 : Gary : But I just carry on. If everybody else can see his thing.
+2:53:05 : QA Trainer : So I I would like you to see be able to see it as well.
+2:53:11 : QA Trainer : I'll I'll try to share again.
+2:53:13 : Gary : I'll refresh my screen and see if that helps.
+2:53:17 : QA Trainer : I wouldn't do that because you're on, you're on the virtual machine, so you wouldn't want to close your lab.
+2:53:27 : Gary : I can see I've video thing, so it's not that.
+2:53:32 : QA Trainer : So it's.
+2:53:55 : QA Trainer : Any changes?
+2:53:57 : Gary : Nope.
+2:53:59 : Gary : Just to blue circle.
+2:54:02 : QA Trainer : Recircle. Yeah, it's loading.
+2:54:05 : QA Trainer : I mean, even when I share my screen, you do need some extra.
+2:54:11 : QA Trainer : Roadband from your side as well to pick up the the change to see the screen but yeah you see you've seen it before, so I don't know what happened now.
+2:54:18 : Gary : Yeah, yeah, it's first time as well came up as long as sense of shared the screen. I'm going to try and share main again just to see if it's not trying.
+2:54:31 : Gary : Now on share that.
+2:54:33 : QA Trainer : Oh, I need to give you permission wait.
+2:54:40 : QA Trainer : Try again try now?
+2:54:57 : Gary : I.
+2:54:57 : QA Trainer : It's your screen.
+2:55:06 : QA Trainer : Okay, and I'll share mine, yeah?
+2:55:08 : Gary : Didn't.
+2:55:21 : QA Trainer : It's definitely the.
+2:55:23 : QA Trainer : Your internet connection.
+2:55:30 : QA Trainer : Let's, let's start and if you so the you have access to the lab you should access you should have access to the lab even after you end the session. So in case in in the case in which you still cannot see my screen, try to play on your own with, with what we're doing or try to.
+2:55:49 : QA Trainer : To see if we can follow what I'm saying without actually seeing.
+2:55:53 : Gary : Look at.
+2:55:56 : QA Trainer : If you have any questions we we can address them tomorrow.
+2:56:01 : QA Trainer : If if if everything is not clear by the end of the session regarding this task. Ok, so I was saying that you would want to go in Bzo, open and or organization chart wizard.
+2:56:21 : Sarah Randall : Okay.
+2:56:25 : QA Trainer : Click on create and the first thing you should see is, I want to create my organization chart from information that's already stored in a file or database. So this is what you should see clicked.
+2:56:39 : QA Trainer : Yeah. Can you see that?
+2:56:42 : QA Trainer : On your side Gary.
+2:56:44 : Roy Wilson : Yeah.
+2:56:45 : QA Trainer : Okay, click on next. Again, you leave it as you don't change anything, just leave the option that's already selected. Click on next.
+2:56:56 : QA Trainer : Okay, now.
+2:57:01 : QA Trainer : Two, two, two browse the organization departments excel. So, click on browse browse and then choose organization departments Excel within the app the folder I sent you the the this morning.
+2:57:25 : Gary : And it says IA organization chart data.
+2:57:29 : QA Trainer : No no, no, no, no. So the one which the.
+2:57:32 : QA Trainer : Going to go into the folders, the large folder I sent you this morning QA Visio.
+2:57:39 : QA Trainer : Point four.
+2:57:41 : QA Trainer : And there you should see organization departments Excel.
+2:57:46 : Gary : Organization departments yep.
+2:57:48 : QA Trainer : Yep, click on that, then next.
+2:57:54 : Gary : The Manager next.
+2:57:57 : QA Trainer : Right, so, here you should see, yeah, you should see name.
+2:58:02 : QA Trainer : You should see manager reports to manager, click on next again.
+2:58:08 : QA Trainer : Then we will add some some some departments from left to right. So we already have name, then we wanna add.
+2:58:17 : QA Trainer : Job title.
+2:58:20 : QA Trainer : Contract title and click add, click on department and then add again.
+2:58:34 : QA Trainer : You want to click next.
+2:58:37 : QA Trainer : And then see the next window shows you shape data Shape data is the metadata, ok? So it's the additional information. So here we already have named job title department because we've already.
+2:58:50 : QA Trainer : Added them, but we want to add email as well. We want to add.
+2:58:56 : QA Trainer : The Manager and we also want to add contact number.
+2:59:03 : QA Trainer : Okay, so everything that you see here, you will be able to see the metadata in the shape data panel.
+2:59:12 : QA Trainer : Okay, so if you valued everything basically on the left hand side, you should only see a master shape which you leave it as it is.
+2:59:19 : QA Trainer : On the right hand side you see everything else. Click on next.
+2:59:25 : QA Trainer : We will.
+2:59:28 : QA Trainer : I mean the actual task has to include but we will not include any any pictures so we try to make it as close as possible to, what will be doing afterwards. So, don't include any pictures, just leave it as it is.
+2:59:46 : QA Trainer : And then here I want to specify how much of my organization to display on each page. So this is how you will manage what you can see on each page. Okay, so you should see clicked I want to specify how much of my organization to display on each page. Can you all see that?
+3:00:03 : Gary : Yep.
+3:00:04 : QA Trainer : Picked, yeah. Okay, click on next.
+3:00:13 : QA Trainer : And here, we already have Mark Thomas, and then we need to add some some other people. So go on add page.
+3:00:23 : QA Trainer : Choose, you already have Mark, but let me see if.
+3:00:28 : QA Trainer : So we need to change something. So click on cancel and go on Mark and click modify page because you need to modify the number of additional levels. And from all subordinates choose one.
+3:00:42 : QA Trainer : And then page name will be management.
+3:00:49 : QA Trainer : Gary, can you follow me?
+3:00:51 : Gary : Yep, that's.
+3:00:53 : QA Trainer : So Mark Thomas one management, ok. And now you go on add page, so add page, the next person is Sarah Wallace.
+3:01:05 : QA Trainer : Can we see Sarah Wallace anywhere? Yeah, ok, and then you just leave also coordinates page name is gonna be a HR.
+3:01:16 : Gary : The same as what we did earlier.
+3:01:18 : QA Trainer : Yeah, he's the same it's the same task, but I want to I want you to do it again just to remind you how you, how you.
+3:01:28 : QA Trainer : With the wizard or or how you can manage what information you have on each page.
+3:01:34 : Gary : I just.
+3:01:34 : QA Trainer : Basically basically set it up as you want, as you want it. So this what we're doing now is we are giving a name of, we are, we are letting the system know or the wizard know how many pages we want and what we want on the page, ok? So on each page we have, for example, on this one, this one will contain all.
+3:01:55 : QA Trainer : All supported Sarah and all her subordinates and the page will be named HR. Okay, click on ok.
+3:02:03 : QA Trainer : At page, next one is Jim clemens.
+3:02:11 : QA Trainer : These, these are the exact steps that you need to take for the other documents also coordinates page name, IT.
+3:02:22 : Gary : I know the name at the top of the page, another one, because.
+3:02:26 : QA Trainer : And based on based on the departments the department in the in the Excel I can I can help you, I can help you. Okay, click on add page again, Jessica Thompson.
+3:02:42 : QA Trainer : Page is marketing.
+3:02:51 : QA Trainer : Chris Jacobs.
+3:02:55 : QA Trainer : Page is finance.
+3:03:08 : QA Trainer : And the last one is Philippe Jervis. Oh, shoot? My ok I don't know what happened, my, my lap just closed. Can you see.
+3:03:23 : QA Trainer : Your left time has expired. What?
+3:03:28 : QA Trainer : Okay, can you see what I see?
+3:03:35 : QA Trainer : Screenshot.
+3:03:39 : QA Trainer : Ok, that's me, that means I lost everything.
+3:03:42 : QA Trainer : So make sure you how how much time have you got left? I mean.
+3:03:50 : QA Trainer : I started when I started on so I should have left, I should have already, I should have had another.
+3:03:58 : QA Trainer : I think hour or so.
+3:04:02 : QA Trainer : Right, so, ok.
+3:04:10 : QA Trainer : Okay, at least you can still hear me. Okay I'm gonna guide you, I'm gonna guide you without.
+3:04:18 : QA Trainer : So let me go on.
+3:04:23 : QA Trainer : Stop.
+3:04:26 : QA Trainer : So, anyone wants to share their screen so I can guide you on that.
+3:04:32 : Danny King : And yeah, sure mine's done.
+3:04:37 : QA Trainer : Share your screen or someone who's maybe not, so you finished everything Danny, you finished the task.
+3:04:42 : Danny King : So obviously like a sanity check, make sure it's correct.
+3:04:50 : QA Trainer : So if you want to if you want to show your screen I can guide you through or Roy, are you, have you finished or you're still in the process.
+3:04:58 : QA Trainer : You're on mute.
+3:05:08 : Roy Wilson : In Chat.
+3:05:11 : QA Trainer : Let me give.
+3:05:15 : QA Trainer : Okay.
+3:05:17 : QA Trainer : Okay, so make sure to go go now. No, before you do anything just go on instructions and let me know how much time you've got left so you what happened to me doesn't happen to you.
+3:05:30 : Roy Wilson : Sorry, where isn't oh yeah I said team's instructions.
+3:05:34 : Roy Wilson : Sorry my it's really small as the wording.
+3:05:38 : QA Trainer : Okay.
+3:05:41 : QA Trainer : So all of you go on instructions and tell me how much left, how much time have you got left?
+3:05:48 : Danny King : Says one hour fifty seven remaining.
+3:05:50 : QA Trainer : Okay, ok, that's enough. Okay cause we only have we normally we should have a fifty minutes break, but we'll just go, we'll just carry on and we'll finish fifteen minutes earlier.
+3:06:00 : Danny King : When we save a prompt as well thirty minutes prior to that.
+3:06:04 : QA Trainer : But I had I I yeah, I didn't have the prompt. So I don't know what happened. I mean, I know I happened because I logged in at I know a quarter to eight this morning, so probably because of that.
+3:06:16 : QA Trainer : Okay.
+3:06:18 : Roy Wilson : What so I chose the smaller one of the two spreadsheets was the.
+3:06:22 : Roy Wilson : Dash underscore one. So I split it into three.
+3:06:27 : QA Trainer : So we did.
+3:06:29 : Roy Wilson : And then the different teams that sit underneath the technology finance and execs, I just chose it to display the one level under the CEO and then under to show all that.
+3:06:39 : QA Trainer : To the new chart, yeah, the new.
+3:06:42 : QA Trainer : The new document. Okay. Yeah.
+3:06:44 : Roy Wilson : Any spreadsheet so the bit the bit that confused me was that and it and it took me a little a little while was.
+3:06:53 : Roy Wilson : Because I had the line manager.
+3:06:57 : Roy Wilson : In the fields and that's why Alice Johnson shows up here cause that's that person's line manager and it confused me first. So yeah, that, that was my piece of learning anyways. So I choose the CO.
+3:07:10 : Roy Wilson : That, that's the main executive team.
+3:07:13 : Roy Wilson : And then everybody else then has their full tree that sits underneath their.
+3:07:19 : QA Trainer : Yeah, so.
+3:07:20 : Roy Wilson : We'll send again.
+3:07:22 : Roy Wilson : Henry Walker is this person's line manager cause, again, I had the same line manager in.
+3:07:31 : Roy Wilson : Finance and and technology. The bit I couldn't work out was how was this one extended over the end of the page and I couldn't.
+3:07:40 : QA Trainer : Let's try, yeah, ok, let's let's try something, let's yeah, so I wanted actually wanted to ask you to do this. So stay stay where you are. I'm just gonna open up.
+3:07:53 : QA Trainer : So go on.
+3:07:56 : QA Trainer : So just Roy, yeah. Roy, go on.
+3:08:00 : QA Trainer : The top of the, so the name at the top.
+3:08:04 : Roy Wilson : Yeah.
+3:08:05 : QA Trainer : Right click.
+3:08:09 : QA Trainer : It's.
+3:08:12 : Roy Wilson : That was that?
+3:08:13 : QA Trainer : Then change ca.
+3:08:15 : Roy Wilson : Maybe I'm sure.
+3:08:16 : QA Trainer : So something else? Yeah. No, then, yeah, no. No it's the other one, and do go on, go on undo, go and do.
+3:08:26 : QA Trainer : Okay, click the the next person down.
+3:08:35 : Roy Wilson : Nicely that should then.
+3:08:38 : Roy Wilson : Yeah. Yeah perfect. Yeah.
+3:08:44 : QA Trainer : Okay perfect. Okay, so, right. So then Gary I'm gonna ask you to share, so all good with you Roy.
+3:08:51 : Roy Wilson : Yep perfect yep.
+3:08:53 : QA Trainer : Okay.
+3:08:55 : QA Trainer : Gary, can you share your screen so I can guide you on how to.
+3:08:58 : Roy Wilson : Stop sharing.
+3:09:00 : Gary : I'll stopped to that last but ok.
+3:09:06 : Gary : Plan to share.
+3:09:18 : Gary : Can't see up, and.
+3:09:21 : QA Trainer : Oh, sorry.
+3:09:25 : QA Trainer : You should be able to share now.
+3:09:31 : QA Trainer : Okay, so let's do the, let's work this the new spreadsheet, ok? So we'll do the same thing but on the new one.
+3:09:38 : QA Trainer : In the meantime I'm gonna open it on my side as well.
+3:09:42 : QA Trainer : I need to see where from.
+3:09:53 : QA Trainer : Okay, so.
+3:09:58 : QA Trainer : I saw some more.
+3:10:00 : QA Trainer : Bear with me. Right, so your, your left, ok, you, ok, let's let's arry on with this one.
+3:10:12 : QA Trainer : So you were.
+3:10:16 : QA Trainer : Where were you? So you were meant to add the last, the last two Chris Jacobs.
+3:10:24 : Gary : I'm sorry?
+3:10:25 : QA Trainer : Chris Jacobs Chris. Just type, yeah, he can also type his name and then it's gonna show up, and then the other department is finance.
+3:10:38 : QA Trainer : And then last one, Philippad Jarvis, you can just type, type her name. Yeah. And page name is sales.
+3:10:52 : QA Trainer : Okay, click OK, and then finish.
+3:11:05 : QA Trainer : Okay, so you can see exactly, you can see that the page at the bottom, ok? So now we will do the same thing, but for the new.
+3:11:15 : QA Trainer : Excel.
+3:11:19 : QA Trainer : Danny, did you said you managed to, you finished, right?
+3:11:22 : Danny King : I think so, yeah.
+3:11:24 : QA Trainer : Yeah. Okay, so I'm gonna guide I'm gonna guide Gary and then if you want to follow or if you have any questions or if you the result looks different to what Royce showed you or showed us or what we're gonna do here, just let me know and we can look into it, ok?
+3:11:47 : QA Trainer : Gary, you would wanna go back on Visio, ok, open a new.
+3:11:56 : QA Trainer : Charts, ok. Now, information that's already shared yep next.
+3:12:07 : QA Trainer : Browse and then make sure you choose the.
+3:12:12 : QA Trainer : On desktop yeah more that one.
+3:12:21 : QA Trainer : Okay, now, wait. So, two reports to.
+3:12:26 : QA Trainer : But this depends on.
+3:12:30 : QA Trainer : My manager.
+3:12:34 : QA Trainer : Let me go on straight on the, ok, one second, on the actual task.
+3:12:42 : QA Trainer : Bear with me.
+3:12:48 : QA Trainer : Okay, ok, so you have line, ok, next.
+3:12:56 : QA Trainer : Choose the columns fields, right? So we want to choose.
+3:13:02 : QA Trainer : You've already have name line manager then.
+3:13:08 : QA Trainer : Just need one second, one second and it's so small displayed fields.
+3:13:16 : QA Trainer : So no remove remove line manager, remove line manager, just ok, and add location and department. So.
+3:13:31 : QA Trainer : Now here we can add some more information, we can add salary pension car, let's add.
+3:13:39 : QA Trainer : Mission. Okay, next, so this is the metadata. Next, ok, now don't include, we don't have any pictures. Okay, now wait, I want to specify, so I want to specify how much just so this is how you will, you'll organize your pages. Next.
+3:14:00 : QA Trainer : Right now, so you already have Billy Shaw, ok? Well, you already have Billy Shaw, and you should have So click on Billy Shaw. No, ok. Cancel.
+3:14:12 : QA Trainer : Modify.
+3:14:14 : QA Trainer : And then instead of also boarding issues one.
+3:14:19 : QA Trainer : Okay, and then the page name is management.
+3:14:25 : QA Trainer : Okay.
+3:14:28 : QA Trainer : Now add page.
+3:14:30 : QA Trainer : Trevor fly fry, again, type his name, it should come up.
+3:14:37 : QA Trainer : Yeah, Trevor, so start with Trevor. Trevor Fry. Trevor. This type yeah.
+3:14:44 : QA Trainer : Okay, admin.
+3:14:52 : QA Trainer : Now at page.
+3:14:54 : QA Trainer : Paul Woodward.
+3:14:58 : QA Trainer : Paul's, yeah, that's him. Finance.
+3:15:04 : QA Trainer : Okay.
+3:15:07 : QA Trainer : At page.
+3:15:10 : QA Trainer : Jimmy car Michael.
+3:15:14 : QA Trainer : Yeah HR.
+3:15:19 : QA Trainer : Okay, at page three more Fana Hawkins.
+3:15:28 : QA Trainer : H H A.
+3:15:31 : QA Trainer : Double n. Okay Hawkins.
+3:15:35 : QA Trainer : Yep. Page is IT.
+3:15:40 : QA Trainer : Okay.
+3:15:43 : QA Trainer : At page nancing Nancy Needs.
+3:15:48 : QA Trainer : N Nancy Nancy N A N C Y. N N N for Nicholas.
+3:15:58 : QA Trainer : Yeah, Nancy meets.
+3:16:02 : QA Trainer : M E, yeah. Marketing.
+3:16:09 : QA Trainer : Okay, and the last one at page John Walton.
+3:16:18 : QA Trainer : Yeah. Sales.
+3:16:23 : QA Trainer : Okay.
+3:16:25 : QA Trainer : Okay, no, one second finish.
+3:16:40 : QA Trainer : Yep, so you can see the pages at the bottom and now let's try to organize this one, ok? You can see it's very, very long. So.
+3:16:53 : QA Trainer : Let me think, go on.
+3:16:58 : QA Trainer : Go on the first I guess it's very small so I can't actually see what's written, but, so on the the first.
+3:17:07 : QA Trainer : Manager on says London sales on the left hand side, right click.
+3:17:14 : QA Trainer : The mouse, subordinates.
+3:17:18 : QA Trainer : Arrange subordinates.
+3:17:21 : QA Trainer : And then let's choose on second. Let's choose.
+3:17:27 : QA Trainer : Oh, which one let's I don't know let's choose the the first one, the side by side, see what that gives.
+3:17:40 : QA Trainer : So we changed a little bit. Now, yep, well done. I do the same thing for the other one. So right click subordinates, arrange.
+3:17:51 : QA Trainer : And then side by side, ok, and then just move it forward move it towards yep. Oh, it's still, ok.
+3:18:01 : QA Trainer : So.
+3:18:05 : QA Trainer : You can do the same thing for that particular one, but.
+3:18:11 : QA Trainer : Sites, let's see if it Yep, good. Yeah. Happy with that?
+3:18:17 : QA Trainer : Good. Now let's see, let's check the other pages. Marketing.
+3:18:23 : QA Trainer : Do the same thing here, but.
+3:18:27 : QA Trainer : So you can, what can you do? You can.
+3:18:32 : QA Trainer : Go on the last.
+3:18:43 : QA Trainer : We still need some space at the bottom, actually.
+3:18:48 : QA Trainer : It's range.
+3:18:51 : Gary : Thank you.
+3:18:53 : QA Trainer : Yep, good.
+3:18:58 : QA Trainer : Yeah, that's that's all good, looks good. Oh, sorry, that was the other one.
+3:19:05 : QA Trainer : Yeah so again yeah if you can move towards the left inside the first two, the small, the first two.
+3:19:13 : QA Trainer : Not not not the, not the top one, not the top one, just the, the, the first two departments organized again I can't see. Sorry small.
+3:19:24 : QA Trainer : Okay, and then.
+3:19:27 : QA Trainer : Reorganize this the last two. So.
+3:19:34 : QA Trainer : It's.
+3:19:37 : Gary : It's.
+3:19:37 : QA Trainer : No it's I think he's gonna overlap so probably we should we wanna choose something else for the last one. Subordinates.
+3:19:49 : QA Trainer : Try to.
+3:19:51 : QA Trainer : Try to do this not for the try to go on the third to last.
+3:19:57 : QA Trainer : Yep, and do do it for.
+3:20:00 : QA Trainer : Take for that one.
+3:20:14 : QA Trainer : Here is just down to playing and play playing and seeing which option is the best option. I think you've increased, yeah.
+3:20:26 : QA Trainer : The way to do it, yeah.
+3:20:28 : QA Trainer : Yeah.
+3:20:32 : Gary : Yeah, I get the concept.
+3:20:34 : QA Trainer : You get a concept, yeah? Yeah.
+3:20:47 : QA Trainer : Right so and here again here you can click on the the the top the the first one, right hand side and just choose.
+3:20:56 : QA Trainer : Layout that fits for.
+3:21:06 : QA Trainer : Yeah.
+3:21:09 : QA Trainer : Okay.
+3:21:13 : QA Trainer : So, happy with that?
+3:21:16 : QA Trainer : Very good.
+3:21:18 : Gary : Hey yep, and.
+3:21:20 : QA Trainer : Danny, do you have any questions on your side?
+3:21:23 : Danny King : No, not really, Layouts have ever see slightly different maybe on a couple of them, but no, all good.
+3:21:29 : QA Trainer : Okay, I don't know if Sarah.
+3:21:36 : Sarah Randall : Sorry, I am back now I was just sorting stuff out for year end.
+3:21:39 : QA Trainer : Okay, ok, ok. Did you manage to do the, the task.
+3:21:43 : Sarah Randall : I haven't done it now sir. I've literally only just got back.
+3:21:45 : QA Trainer : Ah, ok, ok, ok. Do you want to share your screen and you can do together if you want to? No.
+3:21:52 : Sarah Randall : Go to seconds let me just.
+3:21:56 : Sarah Randall : Let me share.
+3:22:03 : Sarah Randall : Right, which bit do I need open?
+3:22:06 : QA Trainer : So you'd need the.
+3:22:09 : QA Trainer : The A IAA organization organizational file that I sent you on, I don't I don't remember if you were here when I send it.
+3:22:18 : Sarah Randall : Let me share it and you can show me.
+3:22:20 : QA Trainer : Yeah.
+3:22:24 : Gary : So.
+3:22:24 : QA Trainer : Was kicked out of my lab. So.
+3:22:33 : Sarah Randall : All right, let me share my.
+3:22:34 : QA Trainer : Oh, I need to ok one bear with me one bear with me. Yeah.
+3:23:07 : Sarah Randall : It's not right, so where's the file? Can you see that?
+3:23:10 : QA Trainer : Any, yeah, I was right. So go on, go on instructions so the virtual machine had a a second window. No, no, no. You need to go. There's a second window.
+3:23:21 : QA Trainer : Transceed. So but you should see instructions and the resources at the top.
+3:23:26 : QA Trainer : Okay, go on resources.
+3:23:28 : QA Trainer : B and D and click on the on the menu and you should see our IA organization departments, ok. So that's ok now go on Windows File explore explorer. So you are right now scroll down scroll down.
+3:23:48 : QA Trainer : DVD drive E.
+3:23:51 : QA Trainer : One.
+3:23:53 : QA Trainer : And you can drag and drop it on your desktop.
+3:23:57 : QA Trainer : Yeah, you don't need to open it, but you can, close it and then.
+3:24:02 : QA Trainer : Just know where you have it where you need to upload it. So, so what we want now is to use the wizard to be able to import all the information from the Excel onto an organization chart and also create pages, ok? So.
+3:24:20 : Sarah Randall : That one.
+3:24:21 : QA Trainer : Having a, a messy visio files and just organize it. So you want to go on the wizard.
+3:24:27 : Sarah Randall : This one. Yeah.
+3:24:31 : QA Trainer : Now, because we know so let's let's rush through it. So because we know, because we want to import the information from a file we already have on our desktop, we will choose the first one. If you, if you don't have the file, then you choose the second one. So, now your the first one is fixed, go next.
+3:24:50 : Gary : Yeah.
+3:24:52 : QA Trainer : So again leave it as it is because it's an excel file.
+3:24:57 : QA Trainer : A browse and choose the IA, yeah.
+3:25:06 : QA Trainer : They report to line manager. No, name you leave it as it is.
+3:25:11 : Sarah Randall : Which line manager, yeah.
+3:25:12 : QA Trainer : Yeah, next.
+3:25:14 : QA Trainer : So now here you choose the department and location.
+3:25:20 : QA Trainer : Okay.
+3:25:24 : QA Trainer : Shape data fields. So here you we want to add a no not eight salary pension car.
+3:25:33 : QA Trainer : Next, don't include, we don't have pictures next I want to specify so leave it as is so no no no go back and go back, don't rush. So in the future, if you want, if you want to do the same thing and you want would like the wizard to organize the information on pages instead of having.
+3:25:54 : QA Trainer : A mess, then you would want to have the first option picked. So I want to specify how much of my organization to display on each page, ok? Yeah. Next.
+3:26:06 : QA Trainer : Okay, now here, we have Billy. So click on Billy show modify page, right? To go on to refer back onto my one second.
+3:26:18 : QA Trainer : So really show ok you need to change also ordinates to one. He'll be your CEO or something.
+3:26:24 : Sarah Randall : Okay.
+3:26:25 : QA Trainer : Page name is management. Management or CEO of management.
+3:26:31 : QA Trainer : Okay, that page will have a few more pages to add. Trevor Trevor Fry.
+3:26:37 : Sarah Randall : You can.
+3:26:38 : QA Trainer : Like his name history.
+3:26:40 : QA Trainer : Yeah there's the one you leave also coordinates and then the pages at me admin.
+3:26:47 : QA Trainer : Okay.
+3:26:50 : QA Trainer : Easy, Paul Woodward?
+3:26:56 : Sarah Randall : Yeah.
+3:26:57 : QA Trainer : Finance.
+3:27:03 : QA Trainer : Jimmy car Michael.
+3:27:07 : QA Trainer : Of HR.
+3:27:12 : QA Trainer : The Page Hannah Hawkins.
+3:27:15 : Gary : Cool.
+3:27:23 : QA Trainer : Sorry, IT.
+3:27:27 : QA Trainer : Okay.
+3:27:30 : QA Trainer : Nancy Mid.
+3:27:35 : QA Trainer : I'm ok, yeah.
+3:27:41 : Sarah Randall : Yeah.
+3:27:44 : QA Trainer : Okay. The last one is John Walton.
+3:27:51 : QA Trainer : And sales.
+3:27:55 : QA Trainer : Finish, I finish.
+3:28:07 : Gary : School.
+3:28:10 : QA Trainer : So you can see at the bottom of the pages and then now some of the.
+3:28:15 : QA Trainer : If if some staff members or some managers have a lot of subordinates, then it's gonna you're gonna end up with a very long.
+3:28:24 : QA Trainer : Chart like like here. The what you want to do now is try to see how you can reorganize it so you everything fits on one page.
+3:28:32 : QA Trainer : Thing that if you want to print it, you would need everything I mean ideally you would want everything on one page. So now what you where do you wanna look at? You want to look at where is, where is the most, who has the most, what has highest number of subordinates? So, for example, what you can do is.
+3:28:52 : QA Trainer : Let's try if you click on the, not the, not the first one, so the first on the right hand side at the top.
+3:29:00 : QA Trainer : Okay.
+3:29:03 : QA Trainer : Did you change page?
+3:29:04 : Sarah Randall : I'm sorry you won't know who you've said changed.
+3:29:06 : QA Trainer : Speak speak on the same. Stay on the same page. I think you were on sales or marketing.
+3:29:14 : QA Trainer : On on this page, click on, again, I can't see it's too small, but you've got your manager at the top or whoever she or she is and then you would click on sales London.
+3:29:26 : Sarah Randall : Up here.
+3:29:27 : QA Trainer : No, no, no, at the bottom bottom, just lower, yeah, on the left.
+3:29:32 : Sarah Randall : Yeah.
+3:29:32 : QA Trainer : Yeah, ok, so click or right click.
+3:29:37 : QA Trainer : Subordinate.
+3:29:39 : QA Trainer : Range subordinates, and then choose side by side.
+3:29:48 : QA Trainer : Now, you want to drag, so drag, no, it changed the only one, yeah? So drag, what's her name? Is it Lily Lily something, yeah? So drag ok.
+3:30:04 : QA Trainer : You have the shape, make sure you select the whole shape, not the name. Okay drag it to left, to the left.
+3:30:13 : QA Trainer : Okay, ok, It's maybe a little more, a little bit more.
+3:30:19 : QA Trainer : It's fine. Now or let's do the same thing for the other ramification other branch, so subordinates arrange and then side by side. Okay, and now maybe you want to make them symmetrical, more or less, ok? Now, we still have some issues at the bottom so what you can do, you.
+3:30:39 : QA Trainer : You can choose.
+3:30:40 : Roy Wilson : So.
+3:30:41 : QA Trainer : To the node, always the node, so you choose is it Hannah or I don't I can't see the name.
+3:30:46 : Sarah Randall : Hanna here?
+3:30:47 : QA Trainer : Yeah, they don't again right click.
+3:30:51 : QA Trainer : Subordinates.
+3:30:53 : QA Trainer : And then choose the side by side. Whatever you choose whichever fits actually, ok?
+3:31:00 : QA Trainer : You managed to reduce everything to one page or fit everything in one page on one page.
+3:31:06 : QA Trainer : Okay, so this is the this is the the principle. So what you would just play with arrangements ways or to be able to fit everything on one page.
+3:31:17 : Sarah Randall : Yeah perfect. Thank you.
+3:31:20 : QA Trainer : Okay, I did say that we'll finish in five minutes because we were supposed to take a break, we, we just carried on so we'll just finished a few minutes earlier. Now we still have five minutes, please use the chat to write down what you'd like to cover, that's up as I said at the beginning, I will.
+3:31:40 : QA Trainer : Will check whether the auto auto card I don't think it is from I went through the the materials I don't think it is it's covered, it's covered, but are still if I can do anything by tomorrow, so just write in the chat.
+3:31:55 : QA Trainer : I'm what you'd like to, so it's for tomorrow we've got.
+3:32:00 : QA Trainer : Creating a flowchart, a formatting diagrams working with external data that's pivot diagrams. So that's Excel.
+3:32:11 : QA Trainer : How to link shapes to external data, and then how to custom stencies. So I'm pretty sure AutoCAD is not there, but I'll see what I can do.
+3:32:25 : Roy Wilson : It's.
+3:32:30 : Danny King : This last one, what we've what we saved in this as was.
+3:32:33 : QA Trainer : What you, what you've done, yeah, what you've done today.
+3:32:38 : QA Trainer : Go on, on, so you should see the settings like the will and it should say, does it say anywhere save?
+3:32:46 : QA Trainer : Or what you can do so if you want to save, if you wanna save any work, what I would, what I would do if I were you, I would just.
+3:32:54 : QA Trainer : Transfer everything or to one DRIVe.
+3:32:58 : Danny King : Let's likes physio organizational chart which don't but my screen seems to have locked out. I can't save or save out or go into file. I don't know why.
+3:33:07 : QA Trainer : Can you share your screen if I, I don't see ok I need to give you permission.
+3:33:14 : Danny King : Yeah.
+3:33:25 : Danny King : So this last one that we've done.
+3:33:31 : Danny King : Nothing's happening save or going to file I can't, other stuff works. I can but I can't.
+3:33:43 : Danny King : I don't know what's going on.
+3:33:46 : QA Trainer : I don't think it's this matters, but try to close the, the shape data.
+3:33:51 : QA Trainer : Do anything.
+3:33:54 : Danny King : Want them to can't do anything on anywhere, I can scroll up and down with my, with the wheel on the mouse, but everything else is locked down.
+3:34:06 : QA Trainer : Okay, it's.
+3:34:08 : Danny King : Let's see. But again.
+3:34:15 : Danny King : Now.
+3:34:15 : QA Trainer : Like ok, if you minimum if you, I mean if you minimize and maximize again.
+3:34:23 : Danny King : We got done that a couple of times. It's just not the.
+3:34:27 : QA Trainer : I mean, we can take the risk of losing what you've done but again it's something that you can do to do again in five minutes or less. Try to close the document and see if it asks you to, if it asks you to save it. No, no, no, not from there. No no no no no not the lab, the actual documents, so.
+3:34:42 : QA Trainer : Yeah.
+3:34:44 : Danny King : Can't close it either.
+3:34:46 : QA Trainer : Use it?
+3:34:54 : Danny King : It's highlights them.
+3:34:56 : QA Trainer : Yeah, and.
+3:34:57 : Danny King : It's not, it's not working. I don't.
+3:34:59 : QA Trainer : Can you, I don't know, Roy or Gary, can you try on your side if you and check let me know if you can save the file, if you can save the file? Because if, I don't know whether something with the there shouldn't be any issues with.
+3:35:18 : Roy Wilson : Yes I can say ok still.
+3:35:20 : QA Trainer : Okay.
+3:35:22 : QA Trainer : So, try to Danny try to close though I don't think there's anything to do with it, but try to close the, no shape data, the panel, the box that's open on the right hand side.
+3:35:37 : Danny King : The absolutely everything's locked down. Everything is being able to highlight when you hover over it, it's nothing's working and it's not my mouse cause I tried it on the.
+3:35:46 : QA Trainer : It might be, yeah, it might be the virtual machine.
+3:35:49 : Danny King : Yes, yeah.
+3:35:51 : QA Trainer : If you click outside anywhere, does it do anything?
+3:35:56 : QA Trainer : The Escape.
+3:36:00 : QA Trainer : We escape should, should might take should nothing.
+3:36:03 : Danny King : Couple of minutes ago it was working cause I could flip between these.
+3:36:10 : Danny King : But it's just completely locked out there.
+3:36:14 : Danny King : I can't do.
+3:36:16 : QA Trainer : I think once you, but you wouldn't want to lose the, you don't wanna if you close the the the the the lab, you'd lose everything.
+3:36:24 : Danny King : Yeah, I know.
+3:36:25 : QA Trainer : We wanted to avoid that. Oh.
+3:36:31 : QA Trainer : If you minimize and just come just just minimize.
+3:36:36 : QA Trainer : You see a white, what I can see on my side just a white screen.
+3:36:42 : Danny King : Yeah, I don't really know what that is.
+3:36:46 : QA Trainer : The other way you shared your the w.
+3:36:50 : QA Trainer : I don't know what this is. I mean, can you save.
+3:36:53 : Danny King : I'm saying it's a white screen.
+3:36:56 : QA Trainer : So it's a white screen on your side as well. Yeah.
+3:37:00 : QA Trainer : Yeah.
+3:37:06 : QA Trainer : Oh I don't know what you closed because I can't see anything.
+3:37:09 : Danny King : My screen I don't know what it is. I don't know why it's called.
+3:37:13 : QA Trainer : I'm afraid that that might be the the lab. I'm I'm I'm not sure.
+3:37:19 : Danny King : This one because I don't I don't know what that is.
+3:37:23 : Danny King : Yeah, the other one's gone there.
+3:37:28 : QA Trainer : Because the.
+3:37:29 : Danny King : That was the right screen, but it's taken the other one with it.
+3:37:34 : QA Trainer : Going the chats and you should see the the link I sent you this morning and see if you can relaunch relaunch your lab.
+3:37:41 : Danny King : Gone as well.
+3:37:43 : QA Trainer : The Webex, you should no, no cause you're still on.
+3:37:46 : Danny King : Yeah, on the chat, sorry. The instructions thing just gone.
+3:37:50 : Roy Wilson : Yeah.
+3:37:55 : Roy Wilson : It's more icon icon down it in the bottom right to me A just is find it's the last bottom right icon if you check didn't show in.
+3:38:06 : Roy Wilson : That screen on the Webex screen.
+3:38:12 : QA Trainer : So it's literally it's the towards the end. You should see like a bubble speech thing.
+3:38:20 : QA Trainer : Okay, let me let me see if I can.
+3:38:22 : Danny King : So.
+3:38:23 : Roy Wilson : The right hand corner.
+3:38:25 : QA Trainer : Can you, can you see my screen? Yeah, it's here.
+3:38:30 : Danny King : Yeah, I've I've got the share open. Yeah.
+3:38:33 : Roy Wilson : Oh, sorry.
+3:38:34 : QA Trainer : If you haven't got If you scroll up, you should see the link. Yeah.
+3:38:38 : Danny King : All sense, so open it, open the dashboard again, yeah?
+3:38:42 : QA Trainer : So you opened, you're on their lab, yeah? Can you see the, can you still see your documents?
+3:38:52 : Danny King : So I've opened the it's just got the enrollment details again.
+3:38:56 : QA Trainer : Can you share your screen? I'll I'll give you access.
+3:39:03 : QA Trainer : Permission ok one second, then.
+3:39:08 : QA Trainer : Yeah, try. So.
+3:39:10 : Danny King : Wanna go on the chat. It's open this again, the enrollment.
+3:39:18 : Danny King : I clicked on this link.
+3:39:20 : QA Trainer : Yeah. Yeah I can't see your screen, I can't see your screen.
+3:39:29 : QA Trainer : I I lost everything on my side.
+3:39:35 : QA Trainer : Okay.
+3:39:38 : QA Trainer : Let me see, go back.
+3:39:40 : QA Trainer : Yeah, I still can't see your screen. Right.
+3:39:43 : Danny King : Trying to relaunch the lab at the moment.
+3:39:45 : QA Trainer : Yeah, you might have lost everything cause I lost everything. Ex.
+3:39:49 : Danny King : Yeah, it seems to come back up.
+3:39:51 : QA Trainer : Really with everything, Yeah.
+3:39:54 : Danny King : Still can't save.
+3:39:57 : Danny King : It's still locked out, so it's relaunched the lab. Yeah. I can't do anything with it.
+3:40:06 : QA Trainer : Okay, so, let me give you an email address.
+3:40:11 : QA Trainer : I'm.
+3:40:18 : Danny King : Everything's locked out.
+3:40:28 : Roy Wilson : Can you give us a little bit of a guide of how to export the things we say to our desktops so far.
+3:40:33 : QA Trainer : Yeah, so you'd need to, you'd need to log on to your OneDrive, so Microsoft account or google Drive and move everything there. That's the only way. Or you would.
+3:40:45 : QA Trainer : Send it as an attachment on your.
+3:40:48 : QA Trainer : Yeah, email address.
+3:40:51 : QA Trainer : Either Microsoft or or Outlook or or Gmail or that's the only way. There's no other way or Dropbox if you have Dropbox, any cloud that you can log on from the virtual machine.
+3:41:07 : Roy Wilson : Might be a problem.
+3:41:11 : QA Trainer : Okay, so, oh, why is it? No, no cancel.
+3:41:18 : QA Trainer : Why, why is that? Okay.
+3:41:23 : Roy Wilson : An optional.
+3:41:26 : Roy Wilson : How to configure the email here to send it.
+3:41:34 : Roy Wilson : Or to open our OneDrive on here. Not sure the way that we would.
+3:41:41 : QA Trainer : Just go go on, ok, bear with one second. So I I just let me just give Danny an email address, so I'm gonna I'm just gonna drop it in the chat.
+3:42:29 : QA Trainer : Also.
+3:42:33 : QA Trainer : You may want to check this link as well. Probably you don't you would want to start with or just do both.
+3:42:39 : QA Trainer : Okay, so take a screenshot.
+3:42:42 : QA Trainer : Of what's happening and I would I would just open a ticket I would open a ticket with using the link.
+3:42:51 : QA Trainer : Tell them that your lab will expire in probably less than an hour and you don't want to lose everything.
+3:42:59 : QA Trainer : They're pretty quick.
+3:42:59 : Danny King : So what, so they're say email address.
+3:43:03 : QA Trainer : No, no. The second link I, the link I sh I sent you.
+3:43:06 : Danny King : Right. Yeah.
+3:43:10 : Danny King : Open a support ticket.
+3:43:15 : QA Trainer : And, just follow the steps, it's just it's really straightforward. If you can take a screenshot of what you see, then include you can attach a screenshot as well. Let them know that your lab will expire. Just mark it urgent, just say urgent and that your label expire in, let them know in how much.
+3:43:42 : QA Trainer : I'm going to do that now. Sorry Roy, you were saying something.
+3:43:47 : Roy Wilson : I think I've worked out how to do it, I think I'm gonna.
+3:43:52 : Roy Wilson : He asked me to outlook, and that's what I'm not really sure about, it's gonna.
+3:43:59 : Roy Wilson : Yeah.
+3:44:00 : QA Trainer : For example, tomorrow when we will end the session, once you close the lab, everything will be, will be deleted anyway, so nothing.
+3:44:10 : QA Trainer : I'm I mean, I know everything, everything you have in terms of files will disappear. So.
+3:44:16 : QA Trainer : You'll just will be just it will be deleted. I don't know what happens with the information if you log onto your account, but if you log out, no, no.
+3:44:30 : QA Trainer : So this goes for Sarah and Gary as well. So if you want to save any of your work, you need to.
+3:44:37 : QA Trainer : Send it to.
+3:44:39 : QA Trainer : To you via google drive or.
+3:44:44 : QA Trainer : Or, Dropbox.
+3:44:48 : Roy Wilson : What I'd like to do is send this to my personal one DRIVe and then work it out from there cause I don't know how to access our corporate one DRIVe.
+3:44:56 : Roy Wilson : Browser.
+3:45:00 : Roy Wilson : Right outside access our corporate one DRIVe from web no.
+3:45:10 : Danny King : Well, as it stands at the moment, I've can't, I can't fill out this.
+3:45:16 : Danny King : Support ticket. My keyboard stopped working, I don't know what's going on. I can't type, I can use my number keypad but I can't type any letters from my keyboard.
+3:45:27 : QA Trainer : Okay, maybe.
+3:45:29 : Danny King : All sorts of windows.
+3:45:34 : Danny King : It looks like I'm just gonna have to lose it. I don't know what to do with this. Yeah.
+3:45:37 : QA Trainer : You are multiple screens. Do you have multiple screens.
+3:45:40 : Danny King : Yeah. So.
+3:45:42 : QA Trainer : Sure you're on the right screen with the.
+3:45:45 : Danny King : We have a positive, I can't I can't open up other things I'm trying to type into the box. Okay. And nothing's working. It it's bringing up shortcuts for some reason.
+3:45:58 : Danny King : It's bringing a keyboard shortcuts.
+3:46:03 : QA Trainer : Okay right let me I'll try to do this for you. Let's see if I can. Okay, support ticket helpful, ok, start.
+3:46:20 : Danny King : I've just disconnected my multiple screens as well, even my laptop, I can't do anything.
+3:46:28 : QA Trainer : Okay, can you quickly write in the chat? I I can try to.
+3:46:34 : Danny King : All right, anything?
+3:46:36 : QA Trainer : An issue, ok.
+3:46:39 : QA Trainer : Yeah, it's.
+3:46:41 : Danny King : You say, I don't.
+3:46:50 : Danny King : I can't I don't know what's going on.
+3:46:55 : QA Trainer : Can you go on the leb and just close on the save your lab or exit exit and save? So when you exit, you're gonna ask it's gonna, it's gonna ask you to save the lab.
+3:47:09 : Danny King : I've closed the lab a couple of times and then it it keeps coming back a lot.
+3:47:13 : QA Trainer : It comes Yes, because it's you still have time, but I don't know if you can look at the top and let me know how much time you've got left, because.
+3:47:21 : QA Trainer : You could go over, it's gonna happen what happened to me, it's gonna close automatically so you lose everything. Yeah.
+3:47:28 : Danny King : I can't remember where I see the.
+3:47:30 : QA Trainer : So in the instru.
+3:47:32 : Roy Wilson : To finish signing in.
+3:47:37 : Roy Wilson : It was successful.
+3:47:40 : Danny King : It says I've got one hour fifteen left. Okay.
+3:47:44 : QA Trainer : All right. So, there is.
+3:47:47 : QA Trainer : At the bottom you should see exit. So if you go should be on instructions at the very bottom you should say exit lab.
+3:47:59 : Danny King : Progress and exit.
+3:48:01 : QA Trainer : Yeah, say click on save. At least you know it's you've saved your lab.
+3:48:05 : Danny King : Okay, yeah, that appears to have worked.
+3:48:08 : Roy Wilson : Try to, of how to do it. So if you.
+3:48:14 : Roy Wilson : Google OneDrive, and you, and then open up Microsoft OneDrive, if you can remember your IT login, you can log in with your email and your IT login password, and that allows you then to get into your own OneDrive SharePoint. So I can see my desktop.
+3:48:34 : Roy Wilson : For example, virtually.
+3:48:38 : Roy Wilson : Sorry to cut across it just that I worked out to do it, so.
+3:48:53 : QA Trainer : Danny tried to, so if you've saved your lab.
+3:48:59 : QA Trainer : Be well if you still can't write or do anything with, with any of your.
+3:49:06 : QA Trainer : Devices there, probably you should restart them. So that means that this means you will be kicked out of the meeting, but it's fine, so we're gonna finish in two minutes anyway, so what I would suggest is try to restart everything and.
+3:49:23 : QA Trainer : When you log back in tomorrow, you'd log on, you should have been sent by now an email, a link for tomorrow a separate link from tomorrow, right? For.
+3:49:37 : Danny King : I don't believe so now. I'm joining link tomorrow.
+3:49:43 : Danny King : I think for joining tomorrow.
+3:49:46 : Danny King : Not received an email. Now, no.
+3:49:48 : QA Trainer : When you receive the, the, the, the one for today, have, have you received two or just one.
+3:49:55 : Roy Wilson : But they're both dates on it, both days on it.
+3:49:59 : Danny King : Just one, yeah, which.
+3:50:00 : QA Trainer : So if it's ok.
+3:50:01 : Danny King : It's the same.
+3:50:02 : QA Trainer : For both days because I have two separate ones, so probably then for you it's one for it's the same one for both days, so just log, on using the same link and if you've saved it, so all of you please click exit and save lab to make sure you've saved your lab.
+3:50:18 : Danny King : Their mindset is safe for seven days, so that seems to have.
+3:50:22 : QA Trainer : Yeah.
+3:50:23 : Roy Wilson : Sorry, when you say it's exit or.
+3:50:26 : QA Trainer : It should prompt you to save your lab.
+3:50:30 : Danny King : Instructions right, it's top right, it says exit lab.
+3:50:34 : Roy Wilson : Say progress next. Yeah, got it. Yeah.
+3:50:37 : Danny King : Thank you.
+3:50:38 : QA Trainer : Sarah, I don't know if you're there, but if you're there just can you try to.
+3:50:43 : QA Trainer : Exit and save your progress as well.
+3:50:45 : Sarah Randall : Yeah, I'm just doing it now.
+3:50:47 : QA Trainer : Okay, so.
+3:50:47 : Sarah Randall : You just.
+3:50:49 : Sarah Randall : Where was it Danny? Sorry.
+3:50:51 : QA Trainer : On the.
+3:50:52 : Danny King : On where on the training side, instructions.
+3:50:56 : Sarah Randall : Instructions hold on I haven't got them. Yeah, so.
+3:50:59 : Danny King : It's top right, it says save and exit or something. Exit lab.
+3:51:05 : Sarah Randall : Yeah, got it.
+3:51:07 : Danny King : Sure if you wanna say.
+3:51:08 : Sarah Randall : Yeah, done. Thank you.
+3:51:10 : QA Trainer : Okay, Gary, can you confirm that you manage on your site.
+3:51:14 : Gary : Done.
+3:51:15 : QA Trainer : Okay.
+3:51:16 : QA Trainer : So all these serves on the first day, I I'll see you back tomorrow. I think it's still half past nine, right? Yeah.
+3:51:27 : Gary : This might just check. Don't.
+3:51:30 : Sarah Randall : Thank you.
+3:51:30 : QA Trainer : And see you tomorrow have past line and I'll I'll look into what you've put put down in the chat and I'll do I'll do my best to I mean I'll check if they're already covered, if not I'll see what I can do. If not.
+3:51:43 : QA Trainer : I'll, try to get back to you after, ok? I'll try to come up with just find something and and and help you afterwards. Okay?
+3:51:56 : Gary : See tomorrow. Bye.
+
